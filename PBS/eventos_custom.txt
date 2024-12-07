@@ -1,0 +1,46 @@
+#-------------------------------
+[Regalos Elite Trainer]
+Pokemon = SCYTHER
+Pokemon = PORYGON
+Pokemon = BELDUM
+Pokemon = DRATINI
+Pokemon = LARVITAR
+Pokemon = GIBLE
+Pokemon = BAGON
+#-------------------------------
+[Regalos otros eventos]
+Pokemon = RIOLU
+Pokemon = CHARCADET
+Pokemon = EEVEE
+#-------------------------------
+[Enfrentamientos salvajes]
+Pokemon = SUNFLORA
+Pokemon = CLOYSTER
+Pokemon = LANTURN
+Pokemon = MANTINE
+#-------------------------------
+[Legendarios PostGame]
+Pokemon = DIALGA
+Pokemon = MEWTWO
+Pokemon = ARTICUNO
+Pokemon = ZAPDOS
+Pokemon = MOLTRES
+Pokemon = MEW
+Pokemon = HO-OH
+Pokemon = LUGIA
+Pokemon = GROUDON
+Pokemon = KYORGE
+Pokemon = RAYQUAZA
+Pokemon = CELEBI
+Pokemon = GIRATINA
+#-------------------------------
+[Fosiles]
+Pokemon = OMANYTE
+Pokemon = KABUTO
+Pokemon = AERODACTYL
+Pokemon = LILEEP
+Pokemon = ANORITH
+Pokemon = CRANIDOS
+Pokemon = SHIELDON
+Pokemon = TIRTOUGA
+Pokemon = ARCHEN

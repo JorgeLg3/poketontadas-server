@@ -1,0 +1,416 @@
+﻿# Consulta la documentación en la wiki para aprender cómo editar este archivo.
+#-------------------------------
+[001]   # Intro 1
+Name = Intro
+#-------------------------------
+[002]   # Murcia
+Name = Murcia
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[003]   # Ruta 01
+Name = Ruta 01
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,13
+BattleBack = camino
+MapSize = 2,11
+#-------------------------------
+[004]   # Nebrija
+Name = Nebrija
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BattleBack = camino
+#-------------------------------
+[005]   # VillaTontadas
+Name = VillaTontadas
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[007]   # Ruta 02
+Name = Ruta 02
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,12
+BattleBack = camino
+#-------------------------------
+[008]   # Monteagudo
+Name = Monteagudo
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[013]   # Ruta 03
+Name = Ruta 03
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,11
+SnapEdges = true
+BattleBack = ruta03
+MapSize = 2,11
+#-------------------------------
+[014]   # El Palmar
+Name = El Palmar
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[015]   # Ruta 04
+Name = Ruta 04
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,12
+BattleBack = camino
+MapSize = 2,1011
+#-------------------------------
+[021]   # Cartagena, 2015
+Name = Cartagena
+ShowArea = true
+BattleBack = distortion
+#-------------------------------
+[026]   # Interiores Nebrija
+Name = Interiores Nebrija
+BattleBack = nebrija
+#-------------------------------
+[029]   # Alquileres Doal
+Name = Alquileres Doal
+BattleBack = laboratorio
+#-------------------------------
+[031]   # Cueva Marfil
+Name = Cueva Marfil
+ShowArea = true
+#-------------------------------
+[038]   # Taberna
+Name = Interiores Ruta 03
+#-------------------------------
+[042]   # Ruta 05
+Name = Gorguel
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,15
+BattleBack = rutapradera
+#-------------------------------
+[043]   # Ruta 06
+Name = Ruta 06
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,11
+BattleBack = ruta6
+MapSize = 2,11
+#-------------------------------
+[044]   # Valencia
+Name = Valencia
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[045]   # Ruta 07
+Name = Ruta 07
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,8
+BattleBack = ruta7
+MapSize = 1,111
+#-------------------------------
+[046]   # Bosque Espora
+Name = Bosque Espora
+MapPosition = 0,21,9
+BattleBack = bosque
+MapSize = 2,11
+#-------------------------------
+[047]   # Biblioteca
+Name = Biblioteca
+BattleBack = biblioteca
+#-------------------------------
+[049]   # Pirineos
+Name = Pirineos
+Outdoor = true
+ShowArea = true
+BattleBack = pirineos
+#-------------------------------
+[052]   # Despacho Ferfiera
+Name = Carrera contra Botia
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[060]   # Biblioteca
+Name = Biblioteca
+BattleBack = biblioteca
+#-------------------------------
+[061]   # Bosque Dorado
+Name = Bosque Dorado
+BattleBack = bosquedorado
+#-------------------------------
+[062]   # Prebosque
+Name = Bosque Espora
+ShowArea = true
+BattleBack = bosque
+#-------------------------------
+[067]   # Sala Conciertos
+Name = Sala Conciertos
+BattleBack = disco
+#-------------------------------
+[068]   # Pruebas Oceanografic
+Name = Pruebas Oceanografic
+BattleBack = oceanografic
+#-------------------------------
+[072]   # Barcelona
+Name = Barcelona
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BattleBack = city
+#-------------------------------
+[075]   # Ruta 08
+Name = Ruta 08
+Outdoor = true
+ShowArea = true
+BattleBack = beach
+#-------------------------------
+[078]   # Gorguel
+Name = Gorguel
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,16
+#-------------------------------
+[081]   # Mauritania
+Name = Mauritania
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+#-------------------------------
+[082]   # Trondheim
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[085]   # Ruta Desierto
+Name = Ruta Desierto
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+BattleBack = desert
+#-------------------------------
+[086]   # Ruinas del Desierto
+Name = Ruinas del Desierto
+BattleBack = templo
+#-------------------------------
+[087]   # Cámara Ruinas Desierto
+Name = Cámara Ruinas Desierto
+BattleBack = templo
+#-------------------------------
+[088]   # Ruta 09
+Name = Ruta 09
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[093]   # Tenerife
+Name = Tenerife
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[094]   # Ruta 10
+Name = Ruta 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BattleBack = selva
+#-------------------------------
+[095]   # Ruta 11
+Name = Ruta 11
+Outdoor = true
+ShowArea = true
+BattleBack = subidateide
+#-------------------------------
+[097]   # Volcán Teide
+Name = Volcán Teide
+Outdoor = true
+ShowArea = true
+BattleBack = subidateide
+Environment = Rock
+#-------------------------------
+[103]   # Isla Valera
+Name = Isla Valera
+Outdoor = true
+ShowArea = true
+Bicycle = true
+DiveMap = 122
+BattleBack = beach
+#-------------------------------
+[104]   # Hotel P1 Habitaciones
+Name = Hotel P1 Habitaciones
+BattleBack = hotel
+#-------------------------------
+[106]   # Hotel P2 Habitaciones
+Name = Hotel P2 Habitaciones
+BattleBack = hotel
+#-------------------------------
+[108]   # Cueva Mística Desafío
+Name = Cueva Mística Desafío
+ShowArea = true
+BattleBack = cuevamistica
+#-------------------------------
+[109]   # Bajo el Agua Cueva
+Name = Bajo el Agua Cueva
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[114]   # Castillo Ejoje
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[115]   # Mazmorra Final
+Name = Mazmorra Final
+Outdoor = true
+#-------------------------------
+[119]   # Cueva Mística
+Name = Cueva Mística
+ShowArea = true
+SnapEdges = true
+BattleBack = cave
+#-------------------------------
+[121]   # Cima Pirineos
+Name = Cima Pirineos
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+SnapEdges = true
+BattleBack = snow
+#-------------------------------
+[122]   # Bajo el agua
+Name = Bajo el agua
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[123]   # Acceso Secreto Prisión
+Name = Acceso Secreto Prisión
+DiveMap = 109
+#-------------------------------
+[132]   # Prisión Valera
+Name = Prisión Valera
+BattleBack = casona
+#-------------------------------
+[133]   # Bosque Casona
+Name = Bosque Casona
+BattleBack = mew
+#-------------------------------
+[134]   # Ruta 13
+Name = Ruta 13
+Outdoor = true
+ShowArea = true
+BattleBack = ruta13
+#-------------------------------
+[136]   # Helgestival
+Name = Helgestival
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[137]   # Getxo
+Name = Getxo
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[139]   # Ruta 12
+Name = Ruta 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,100
+BattleBack = ruta7
+#-------------------------------
+[141]   # Interior Casona
+Name = Interior Casona
+DarkMap = true
+BattleBack = casona
+#-------------------------------
+[144]   # Interiores Getxo
+Name = Interiores Getxo
+BattleBack = santuario
+#-------------------------------
+[145]   # Cueva de Amboto
+Name = Cueva de Amboto
+BattleBack = cave2
+#-------------------------------
+[147]   # Vivero Getxo
+Name = Vivero Getxo
+SnapEdges = true
+BattleBack = vivero
+#-------------------------------
+[148]   # Habitación Quique
+Name = Habitación Quique
+BattleBack = vivero
+#-------------------------------
+[150]   # Ruta 14
+Name = Ruta 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+SnapEdges = true
+BattleBack = snow
+#-------------------------------
+[152]   # Interiores Prisión Valera
+Name = Interiores Prisión Valera
+BattleBack = casona
+#-------------------------------
+[153]   # Entrada Prisión Valera
+Name = Entrada Prisión Valera
+BattleBack = casona
+#-------------------------------
+[154]   # Mazmorra Final
+Name = Mazmorra Final
+Outdoor = true
+#-------------------------------
+[155]   # Mazmorra Final
+Name = Mazmorra Final
+Outdoor = true
+#-------------------------------
+[156]   # Mazmorra Final
+Name = Mazmorra Final
+Outdoor = true
+#-------------------------------
+[166]   # Dublín
+Name = Dublín
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[167]   # Oslo
+Name = Oslo
+BattleBack = snow
+#-------------------------------
+[173]   # HG Primera Edición
+Name = HG Primera Edición
+BattleBack = helgestival
+#-------------------------------
+[174]   # HG Segunda Edición
+Name = HG Segunda Edición
+BattleBack = matrix
+#-------------------------------
+[175]   # HG Tercera Edición
+Name = HG Tercera Edición
+BattleBack = helgestival
+#-------------------------------
+[176]   # HG Cuarta Edición
+Name = HG Cuarta Edición
+BattleBack = granja
+#-------------------------------
+[177]   # Puerto provisional
+Name = Puerto provisional
+Outdoor = true
+ShowArea = true
+BattleBack = rutapradera

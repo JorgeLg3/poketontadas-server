@@ -1,0 +1,38 @@
+﻿# Consulta la documentación en la wiki para aprender cómo editar este archivo.
+#-------------------------------
+[0]
+Name = Tontaria
+Filename = mapa_poketontadas.png
+Point = 20,13,Villa Tontadas,Laboratorio Pokémon,5,22,21,,Size1x1
+Point = 16,13,Murcia,Casa del Jugador,2,41,42,,Size2x2
+Point = 17,13,Murcia,,2,41,42,,Size2x2
+Point = 16,14,Murcia,Estrella Levante,2,41,42,,Size2x2
+Point = 17,14,Murcia,,2,41,42,,Size2x2
+Point = 17,11,Monteagudo,FCS Captures S.A.,8,19,29,,Size1x1
+Point = 14,11,El Palmar,Hospital Arrixaca,14,17,23,,Size1x1
+Point = 16,16,Gorguel,,78,72,19,,Size1x1
+Point = 20,11,Valencia,,44,64,48,,Size2x1
+Point = 21,11,Valencia,,44,64,48,,Size2x1
+Point = 20,7,Barcelona,,72,42,68,,Size2x1
+Point = 21,7,Barcelona,,72,42,68,,Size2x1
+Point = 27,7,Isla Valera,,103,55,42,,Size1x1
+Point = 13,7,Getxo,,137,92,43,,Size1x1
+Point = 16,18,Mauritania,,81,44,13,,Size1x1
+Point = 4,18,Tenerife,,93,33,26,,Size1x1
+Point = 4,7,Dublín,,166,27,36,,Size1x2
+Point = 4,8,Dublín,,166,27,36,,Size1x2
+Point = 19,3,Oslo,,,,,,Size1x1
+Point = 20,1,Trondheim,,,,,,Size1x1
+Point = 18,13,Ruta 01,,,,,,
+Point = 19,13,Ruta 01,,,,,,
+Point = 17,12,Ruta 02,,,,,,
+Point = 14,12,Ruta 04,,,,,,
+Point = 14,13,Ruta 04,,,,,,
+Point = 15,13,Ruta 04,,,,,,
+Point = 16,11,Ruta 03,,,,,,
+Point = 15,11,Ruta 03,,,,,,
+Point = 18,11,Ruta 05,,,,,,
+Point = 19,11,Ruta 05,,,,,,
+Point = 21,10,Ruta 07,,,,,,
+Point = 21,9,Ruta 07,,,,,,Size1x1Small
+Point = 21,8,Ruta 07,,,,,,

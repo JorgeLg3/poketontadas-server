@@ -1,0 +1,32 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 3,7,5,8
+StorageCreator = Pokémon
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+SurfBGM = Surfing
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Link
+WalkCharset = link_base
+RunCharset = link_run
+CycleCharset = link_bike
+SurfCharset = link_surf
+DiveCharset = link_buceo
+FishCharset = link_fish_offset
+SurfFishCharset = link_fish_surfing_offset
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_Lien
+WalkCharset = lien_base
+RunCharset = lien_run
+CycleCharset = lien_bike
+SurfCharset = lien_surf
+DiveCharset = lien_buceo
+FishCharset = lien_fish_offset
+SurfFishCharset = lien_fish_surfing_offset

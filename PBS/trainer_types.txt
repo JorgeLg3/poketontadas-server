@@ -1,0 +1,990 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 10
+IntroBGM = pkts_Trainer_Meet
+BattleBGM = pkts_Trainer_Battle
+VictoryBGM = pkts_Trainer_Victory
+#-------------------------------
+[POKEMONTRAINER_Link]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Lien]
+Name = Entrenadora Pokémon
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[RIVAL_Link]
+Name = Rival
+Gender = Male
+BaseMoney = 60
+IntroBGM = pkts_Rival_Meet
+BattleBGM = pkts_Rival_Battle
+VictoryBGM = pkts_Rival_Victory
+#-------------------------------
+[RIVAL_Lien]
+Name = Rival
+Gender = Female
+BaseMoney = 60
+IntroBGM = pkts_Rival_Meet
+BattleBGM = pkts_Rival_Battle
+VictoryBGM = pkts_Rival_Victory
+#-------------------------------
+[JOVEN]
+Name = Joven
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[PROFESOR_NEBRIJA_B]
+Name = Profesor
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PROFESOR_NEBRIJA_EF]
+Name = Profesor
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[PROFESOR_NEBRIJA_DA]
+Name = Profesora
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[PKTS_JP]
+Name = Profesor
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[NEBRIJERO]
+Name = Escolar Nebrijero
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[NEBRIJERA]
+Name = Escolar Nebrijera
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[CAMPISTA_M]
+Name = Campista
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[CAMPISTA_F]
+Name = Campista
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[CAZABICHOS_M]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[CAZABICHOS_F]
+Name = Cazabichos
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[PESCADOR]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[PERROFLAUTA]
+Name = Perroflauta
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[CIENTIFICO]
+Name = Científico
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[CIENTIFICA]
+Name = Científica
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[PKTS_FER]
+Name = Ingeniero
+Gender = Male
+BaseMoney = 60
+Flags = ReserveLastPokemon
+#-------------------------------
+[KARATEKA]
+Name = Karateka
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[CHICA_PARASOL]
+Name = Damisela
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[ENFERMERO]
+Name = Enfermero
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[ENFERMERA]
+Name = Enfermera
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[PKTS_EMMA]
+Name = Jefa Enfermería
+Gender = Female
+BaseMoney = 60
+Flags = ReserveLastPokemon
+#-------------------------------
+[MONTANERO]
+Name = Montañero
+Gender = Male
+BaseMoney = 20
+IntroBGM = pkts_meet_montanero
+#-------------------------------
+[PKTS_EULOGIO]
+Name = Molinense
+Gender = Male
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[ORNITOLOGO]
+Name = Ornitólogo
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[COMEFUEGO]
+Name = Ornitólogo
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[MOTERO]
+Name = Motero
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[MOTORISTA]
+Name = Motorista
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[PKTS_BOTIA]
+Name = Motero
+Gender = Male
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[CUNADO]
+Name = Cuñado
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[PORQUERO]
+Name = Porquero
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[GUARDIA_CIVIL]
+Name = Guardia Civil
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[CHONI]
+Name = Choni
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[GUIRI]
+Name = Guiri
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[GUIRI_F]
+Name = Guiri
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[GUIRI_COUPLE]
+Name = Pareja de Guiris
+Gender = Unknown
+BaseMoney = 20
+#-------------------------------
+[MARINERO]
+Name = Marinero
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[PKTS_QUIQUELODEON]
+Name = Batería
+Gender = Male
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[PIKACHU_ASH]
+Name = Pokémon
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[BOLIFACIO]
+Name = Chico PokéBall
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[LUIGI]
+Name = Hermano
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[PKTS_CAR]
+Name = Micóloga
+Gender = Female
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[PKTS_KIKO]
+Name = Alcalde
+Gender = Male
+BaseMoney = 40
+BattleBGM = pkts_Battle_Kiko
+Flags = ReserveLastPokemon
+#-------------------------------
+[ESTUDIANTE_F]
+Name = Estudiante
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[ESTUDIANTE_M]
+Name = Estudiante
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[DUQUE]
+Name = Duque
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[PKTS_NATXO]
+Name = Filósofo
+Gender = Male
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[CAYETANO]
+Name = Cayetano
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[CHICA_MAURI_AGUA]
+Name = Bailarina
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[CHICA_MAURI_ELECTRICO]
+Name = Bailarina
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[CHICA_MAURI_FUEGO]
+Name = Bailarina
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[CHICA_MAURI_HADA]
+Name = Bailarina
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[CHICA_MAURI_HIELO]
+Name = Bailarina
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[CHICA_MAURI_PLANTA]
+Name = Bailarina
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[CHICA_MAURI_PSIQUICO]
+Name = Bailarina
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[CHICA_MAURI_SINIESTRO]
+Name = Bailarina
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[EXPLORADOR]
+Name = Explorador
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[PKTS_LUCIA]
+Name = Maestra de la Danza
+Gender = Female
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[NADADOR]
+Name = Male
+BaseMoney = 20
+#-------------------------------
+[NADADORA]
+Name = Nadadora
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[CHICO_FLOTADOR]
+Name = Chico Flotador
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[MOCHILERO]
+Name = Mochilero
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[MOCHILERA]
+Name = Mochilera
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[POKEMANIACO]
+Name = Pokemaníaco
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[RANGER_M]
+Name = Ranger
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[RANGER_F]
+Name = Ranger
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[KARATE_COUPLE]
+Name = Hermanos
+Gender = Unknown
+BaseMoney = 40
+IntroBGM = pkts_meet_karateka
+#-------------------------------
+[PKTS_MARTA]
+Name = Escaladora
+Gender = Female
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[PKTS_HELGA_1]
+Name = Festivalera
+Gender = Female
+BaseMoney = 40
+#-------------------------------
+[PKTS_HELGA_2]
+Name = Festivalera
+Gender = Female
+BaseMoney = 40
+#-------------------------------
+[PKTS_HELGA_3]
+Name = Festivalera
+Gender = Female
+BaseMoney = 40
+#-------------------------------
+[PKTS_HELGA_4]
+Name = Festivalera
+Gender = Female
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[PIROMANO]
+Name = Pirómano
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[DAMISELA]
+Name = Damisela
+Gender = Female
+BaseMoney = 30
+IntroBGM = pkts_meet_damisela
+#-------------------------------
+[PKTS_QUIQUE]
+Name = Botánico
+Gender = Male
+BaseMoney = 40
+Flags = ReserveLastPokemon
+#-------------------------------
+[VASCO]
+Name = Vasco
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[POLICIA]
+Name = Policía
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[ENTRENADORGUAY]
+Name = Entrenador Guay
+Gender = Male
+BaseMoney = 50
+#-------------------------------
+[ENTRENADORAGUAY]
+Name = Entrenadora Guay
+Gender = Female
+BaseMoney = 50
+#-------------------------------
+[PRESO]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 10
+IntroBGM = pkts_Preso_Meet
+BattleBGM = pkts_Preso_Battle
+#-------------------------------
+[GUARDIA_CIVIL_PRISION]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 20
+IntroBGM = pkts_Preso_Meet
+BattleBGM = pkts_Preso_Battle
+#-------------------------------
+[PRESO_PUNKY]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 20
+BattleBGM = pkts_Preso_Battle
+#-------------------------------
+[PRESO_CALVO]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 20
+BattleBGM = pkts_Preso_Battle
+#-------------------------------
+[PRESO_BARBA]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 20
+BattleBGM = pkts_Preso_Battle
+#-------------------------------
+[ALCAIDE]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 50
+BattleBGM = pkts_Preso_Battle
+#-------------------------------
+[TEAMROCKET_COUPLE]
+Name = Dúo
+Gender = Unknown
+BaseMoney = 50
+BattleBGM = pkts_Preso_Battle
+#-------------------------------
+[PKTS_ALFI_PARTNER]
+Name = Buceador
+Gender = Male
+BaseMoney = 20
+Flags = ReserveLastPokemon
+#-------------------------------
+[PKTS_ALFI]
+Name = Buceador
+Gender = Male
+BaseMoney = 20
+Flags = ReserveLastPokemon
+#-------------------------------
+[MEDIUM_M]
+Name = Médium
+Gender = Male
+BaseMoney = 30
+IntroBGM = pkts_Medium_Meet
+#-------------------------------
+[MEDIUM_F]
+Name = Médium
+Gender = Female
+BaseMoney = 30
+IntroBGM = pkts_Medium_Meet
+#-------------------------------
+[PKTS_MANU]
+Name = Líder Espiritual
+Gender = Male
+BaseMoney = 40
+Flags = ReserveLastPokemon
+
+
+
+#-------------------------------
+[ESQUIADOR]
+Name = Esquiador
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[ESQUIADORA]
+Name = Esquiadora
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[SNOWBOARDER]
+Name = Snowboarder
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[SNOW_WORKER]
+Name = Operario
+Gender = Male
+BaseMoney = 30
+
+
+
+
+#-------------------------------
+[VIKINGO]
+Name = Vikingo
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[CABALLERO]
+Name = Caballero
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[CABALLERA]
+Name = Caballera
+Gender = Female
+BaseMoney = 20
+#-------------------------------
+[PKTS_ANA_MARIA]
+Name = Exiliada
+Gender = Female
+BaseMoney = 20
+SkillLevel = 100
+#-------------------------------
+[PKTS_JORGE]
+Name = Rey del Castillo
+Gender = Male
+BaseMoney = 20
+SkillLevel = 100
+#-------------------------------
+[ELITE_TRAINER]
+Name = Entrenador de Elite
+Gender = Male
+BaseMoney = 20
+SkillLevel = 100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#-------------------------------
+[POKEMONTRAINER_Red]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Leaf]
+Name = Entrenador Pokémon
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Brendan]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_May]
+Name = Entrenador Pokémon
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[RIVAL2]
+Name = Rival
+Gender = Male
+BaseMoney = 36
+#-------------------------------
+[AROMALADY]
+Name = Señorita Aroma
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BEAUTY]
+Name = Modelo
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BIKER]
+Name = Ciclista
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BIRDKEEPER]
+Name = Ornitólogo
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BUGCATCHER]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[BURGLAR]
+Name = Ladrón
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[CHANNELER]
+Name = Exorcista
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CUEBALL]
+Name = Calvo
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[ENGINEER]
+Name = Ingeniero
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[FISHERMAN]
+Name = Pescador
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[GAMBLER]
+Name = Jugón
+Gender = Male
+BaseMoney = 72
+SkillLevel = 32
+#-------------------------------
+[GENTLEMAN]
+Name = Caballero
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[HIKER]
+Name = Montañero
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[JUGGLER]
+Name = Malabarista
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[LADY]
+Name = Chica
+Gender = Female
+BaseMoney = 160
+SkillLevel = 72
+#-------------------------------
+[PAINTER]
+Name = Pintora
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[POKEMANIAC]
+Name = Poké maníaco
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[POKEMONBREEDER]
+Name = Criapokémon
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[PROFESSOR]
+Name = Profesor
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[ROCKER]
+Name = Rockero
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[RUINMANIAC]
+Name = Ruinmaníaco
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SAILOR]
+Name = Marinero
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SCIENTIST]
+Name = Científico
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SUPERNERD]
+Name = Cerebrito
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[TAMER]
+Name = Domador
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[BLACKBELT]
+Name = Karateka
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CRUSHGIRL]
+Name = Luchadora
+Gender = Female
+BaseMoney = 24
+#-------------------------------
+[PICNICKER]
+Name = Dominguera
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[COOLTRAINER_M]
+Name = Entrenador Guay
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[COOLTRAINER_F]
+Name = Entrenador Guay
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[YOUNGSTER]
+Name = Joven
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[LASS]
+Name = Chica
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[POKEMONRANGER_M]
+Name = Pokémon Ranger
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONRANGER_F]
+Name = Pokémon Ranger
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[PSYCHIC_M]
+Name = Médium
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PSYCHIC_F]
+Name = Médium
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[SWIMMER_M]
+Name = Nadador
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER_F]
+Name = Nadadora
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER2_M]
+Name = Nadador
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER2_F]
+Name = Nadadora
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[TUBER_M]
+Name = Playero
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER_F]
+Name = Playera
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[Playero2_M]
+Name = Playero
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[Playero2_F]
+Name = Playera
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[COOLCOUPLE]
+Name = Dúo Guay
+Gender = Unknown
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[CRUSHKIN]
+Name = Dúo Fuerte
+Gender = Unknown
+BaseMoney = 48
+#-------------------------------
+[SISANDBRO]
+Name = Hermanos
+Gender = Unknown
+BaseMoney = 16
+SkillLevel = 48
+#-------------------------------
+[TWINS]
+Name = Gemelos
+Gender = Unknown
+BaseMoney = 24
+#-------------------------------
+[YOUNGCOUPLE]
+Name = Pareja Joven
+Gender = Unknown
+BaseMoney = 60
+SkillLevel = 32
+#-------------------------------
+[TEAMROCKET_M]
+Name = Team Rocket
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[TEAMROCKET_F]
+Name = Team Rocket
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[ROCKETBOSS]
+Name = Jefe Rocket
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[LEADER_Brock]
+Name = Líder de Gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Líder de Gimnasio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Misty]
+Name = Líder de Gimnasio
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Líder de Gimnasio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Surge]
+Name = Líder de Gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Líder de Gimnasio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Erika]
+Name = Líder de Gimnasio
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Líder de Gimnasio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Koga]
+Name = Líder de Gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Líder de Gimnasio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Sabrina]
+Name = Líder de Gimnasio
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Líder de Gimnasio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Blaine]
+Name = Líder de Gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Líder de Gimnasio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Giovanni]
+Name = Líder de Gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Líder de Gimnasio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Lorelei]
+Name = Alto Mando
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Bruno]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Agatha]
+Name = Alto Mando
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Lance]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[CHAMPION]
+Name = Campeón
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader

@@ -1,0 +1,887 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[RIVAL_Link,Link, 1]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_FUEGO1,5
+	Moves = SCRATCH
+	IV = 1,1,1,1,1,1
+#-------------------------------
+[RIVAL_Link,Link, 2]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_AGUA1,5
+	Moves = TACKLE
+	IV = 1,1,1,1,1,1
+#-------------------------------
+[RIVAL_Link,Link, 3]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_PLANTA1,5
+	Moves = TACKLE
+	IV = 1,1,1,1,1,1
+#-------------------------------
+[RIVAL_Lien,Lien, 1]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_FUEGO1,5
+	Moves = SCRATCH
+	IV = 1,1,1,1,1,1
+#-------------------------------
+[RIVAL_Lien,Lien, 2]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_AGUA1,5
+	Moves = TACKLE
+	IV = 1,1,1,1,1,1
+#-------------------------------
+[RIVAL_Lien,Lien, 3]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_PLANTA1,5
+	Moves = TACKLE
+	IV = 1,1,1,1,1,1
+#-------------------------------
+[JOVEN,Chano]
+LoseText = ¡Qué gran combate!
+Pokemon = RATTATA,4
+#-------------------------------
+[PROFESOR_NEBRIJA_B,Alberto Moreno,1]
+LoseText = ¡Qué gran combate!
+Pokemon = MARILL,3
+	Moves = TACKLE
+Pokemon = VULPIX,2
+	Moves = TACKLE
+#-------------------------------
+[PROFESOR_NEBRIJA_B,Alberto Moreno,2]
+LoseText = ¡Qué gran combate!
+Pokemon = ODDISH,3
+	Moves = TACKLE
+Pokemon = MARILL,2
+	Moves = TACKLE
+#-------------------------------
+[PROFESOR_NEBRIJA_B,Alberto Moreno,3]
+LoseText = ¡Qué gran combate!
+Pokemon = VULPIX,3
+	Moves = TACKLE
+Pokemon = ODDISH,2
+	Moves = TACKLE
+#-------------------------------
+[PROFESOR_NEBRIJA_EF,Juan Abellán]
+LoseText = ¡Qué gran combate!
+Pokemon = METAPOD,4
+	Moves = HARDEN
+#-------------------------------
+[PROFESOR_NEBRIJA_DA,Marian]
+LoseText = ¡Qué gran combate!
+Pokemon = SPINARAK,3
+	Moves = TOXICTHREAD
+#-------------------------------
+[PKTS_JP,Jp]
+LoseText = ¡Qué gran combate!
+Pokemon = PKTS_PHANPY,3
+#-------------------------------
+[NEBRIJERO,Carpa]
+LoseText = Emmm, ¿que ha pasado? No me he enterado.
+Pokemon = BIDOOF,4
+#-------------------------------
+[NEBRIJERA,Andrea Gracia]
+LoseText = Le voy a decir a todos mis amigos que te hagan el vacío.
+Pokemon = FLETCHLING,4
+#-------------------------------
+[CAMPISTA_M,Francisco]
+LoseText = Deberías darle una lección al profesor Jp también!
+Pokemon = ZIGZAGOON,5
+#-------------------------------
+[NEBRIJERO,Pablo Díaz]
+LoseText = Alomejor debería volver para mejorar, que por lo visto soy un paquete...
+Pokemon = CATERPIE,5
+#-------------------------------
+[CAMPISTA_F,Isabel]
+LoseText = ¿Qué? Perdona, me estaba echando un selfie.
+Pokemon = PIDGEY,5
+#-------------------------------
+[CAZABICHOS_M,Alberto]
+LoseText = Al parecer la furia de los Pokémon tipo bicho no es tan potente como pensaba...
+Pokemon = CATERPIE,6
+Pokemon = METAPOD,7
+#-------------------------------
+[PESCADOR,Alfredo]
+LoseText = Vaya... Yo pensaba que mis Magikarp eran imbatibles.
+Pokemon = MAGIKARP,5
+Pokemon = MAGIKARP,5
+Pokemon = MAGIKARP,5
+#-------------------------------
+[PERROFLAUTA,Bob]
+LoseText = Joder colega pero que buena está esta hierba.
+Pokemon = SHINX,7
+Pokemon = SHINX,7
+#-------------------------------
+[CIENTIFICO,Julián]
+LoseText = No he podido debuggear bien este combate.
+Pokemon = SHINX,8
+#-------------------------------
+[CIENTIFICA,Amanda]
+LoseText = Al final me has dado tu el regalo...
+Pokemon = PIKACHU,9
+#-------------------------------
+[CIENTIFICO,Alberto]
+LoseText = Después de esto seguro que voy al paro...
+Pokemon = SHINX,9
+Pokemon = BLITZLE,9
+#-------------------------------
+[PKTS_FER,Fernando]
+Pokemon = PIKACHU,10
+    Moves = SHOCKWAVE,QUICKATTACK,TAILWHIP,THUNDERSHOCK
+Pokemon = PKTS_TYRANTRUM,12
+	Shiny = yes
+    Moves = SHOCKWAVE,CHARGE,SMACKDOWN,TACKLE
+LoseText = ¡Pero que combate más frescoso!
+#-------------------------------
+[KARATEKA,Roberto]
+LoseText = Al final me has dado bastante cera...
+Pokemon = MACHOP,10
+Pokemon = MANKEY,10
+#-------------------------------
+[CHICA_PARASOL,Yasmina]
+LoseText = Las rosas son rojas, las amapolas son verdes y yo soy una perdedora...
+Pokemon = ROSELIA,10
+#-------------------------------
+[ENFERMERO,Alberto]
+LoseText = ¡Qué sepas que solo me has ganado porque estaba ya muy cansado!
+Pokemon = LICKITUNG,12
+#-------------------------------
+[ENFERMERO,Juan]
+LoseText = ¡Ay, no soporto la sangre! Quizás debería cambiar de profesión...
+Pokemon = HAPPINY,13
+#-------------------------------
+[ENFERMERA,Aurora]
+LoseText = Vale, vale! Te libras del pinchazo por esta vez.
+Pokemon = AUDINO,13
+#-------------------------------
+[PKTS_EMMA,Emma]
+LoseText = ¡Qué gran combate!
+Pokemon = PIPLUP,10
+Pokemon = HERDIER,12
+	Name = NINA
+Pokemon = PKTS_CHANSEY,14
+    Moves = POUND,ATTRACT,LIFEDEW,ENDURE
+#-------------------------------
+[CAMPISTA_F,Alba]
+LoseText = ¡Deberías echar un vistazo en la hierba alta, a ver que nuevos Pokémon aguardan en esta ruta!
+Pokemon = ODDISH,12
+#-------------------------------
+[MONTANERO,Alberto]
+LoseText = ¡Vaya, tú también eres muy duro!
+Pokemon = GEODUDE,10
+Pokemon = GEODUDE,12
+#-------------------------------
+[PESCADOR,Rodrigo]
+LoseText = ¡Buen combate! Deberías probar a pescar por aquí
+Pokemon = FEEBAS, 15
+#-------------------------------
+[JOVEN,Pablo]
+LoseText = ¡Seguro que al Fornite no me ganas!
+Pokemon = TYMPOLE,13
+#-------------------------------
+[CAMPISTA_M,Cristian]
+LoseText = Pues al final no era tan buena...
+Pokemon = BIDOOF,12
+#-------------------------------
+[RIVAL_Link,Link, 4]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_FUEGO1,14
+Pokemon = MARILL,12
+	Ability = THICKFAT
+Pokemon = BUDEW, 12
+#-------------------------------
+[RIVAL_Link,Link, 5]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_AGUA1,14
+Pokemon = FLETCHLING,12
+Pokemon = BUDEW, 12
+#-------------------------------
+[RIVAL_Link,Link, 6]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_PLANTA1,14
+Pokemon = FLETCHLING,12
+Pokemon = MARILL,12
+	Ability = THICKFAT
+#-------------------------------
+[RIVAL_Lien,Lien, 4]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_FUEGO1,14
+Pokemon = MARILL,12
+	Ability = THICKFAT
+Pokemon = BUDEW, 12
+#-------------------------------
+[RIVAL_Lien,Lien, 5]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_AGUA1,14
+Pokemon = FLETCHLING,12
+Pokemon = BUDEW, 12
+#-------------------------------
+[RIVAL_Lien,Lien, 6]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_PLANTA1,14
+Pokemon = FLETCHLING,12
+Pokemon = MARILL,12
+	Ability = THICKFAT
+#-------------------------------
+[PKTS_EULOGIO,Eulogio]
+LoseText = ¡Qué pringado que soy!
+Pokemon = KRICKETUNE,10
+Pokemon = MEOWTH,12
+	Name = BLUE
+Pokemon = SOLROCK,15
+#-------------------------------
+[ORNITOLOGO,Alejandro]
+LoseText = Vaya… parece que hoy no volamos tan alto. ¡Será el jet lag!
+Pokemon = FLETCHLING,10
+Pokemon = FLETCHINDER,14
+#-------------------------------
+[COMEFUEGO,Roberto]
+LoseText = ¡Vaya! Parece que alguien apagó mi chispa…
+Pokemon = GROWLITHE,16
+#-------------------------------
+[CAMPISTA_F,Marisa]
+LoseText = ¡Vaya! Parece que hoy no fue mi día de campo... ¡pero volveré mejor preparada, con termo y todo!
+Pokemon = MUDBRAY,15
+#-------------------------------
+[MOTERO,Juanfran]
+LoseText = ¡Salvaje!
+Pokemon = KLINK,14
+#-------------------------------
+[MOTORISTA,Gabriel]
+LoseText = ¡Has ganado esta carrera!
+Pokemon = KLINK,12
+Pokemon = KLANG,14
+#-------------------------------
+[MOTERO,Alberto]
+LoseText = ¡Has ganado esta carrera!
+Pokemon = VAROOM,15
+#-------------------------------
+[PKTS_BOTIA,Botia]
+LoseText = ¡Qué gran combate!
+Pokemon = VAROOM,12
+Pokemon = KLANG, 14
+Pokemon = PKTS_CABRILLA,17
+    Moves = GEARGRIND,FLASHCANNON,SHIFTGEAR,IRONTAIL
+#-------------------------------
+[CAMPISTA_F,Carla]
+LoseText = ¡Me has hecho un cristo todo el equipo Pokémon!
+Pokemon = NIDORANfE,15
+Pokemon = NIDORANmA,15
+#-------------------------------
+[CAZABICHOS_M,Rodrigo]
+LoseText = ¿Cómo?¿Teruel no existe?
+Pokemon = COMBEE,15
+Pokemon = COMBEE,15
+#-------------------------------
+[CUNADO,César]
+LoseText = Si quieren igualdad, también debería existir un día del hombre.
+Pokemon = BIDOOF,15
+Pokemon = RATTATA,15
+#-------------------------------
+[PORQUERO,Julián]
+LoseText = ¡Estás hecho un animal de bellota!
+Pokemon = LECHONK,10
+Pokemon = OINKOLOGNE,15
+#-------------------------------
+[MARINERO,Pablo]
+LoseText = ¡Bien hecho!
+Pokemon = STARYU,10
+Pokemon = SLOWPOKE,15
+#-------------------------------
+[MARINERO,Ernesto]
+LoseText = ¡Bien hecho!
+Pokemon = WAILMER,10
+Pokemon = TENTACOOL,15
+#-------------------------------
+[MARINERO,Francisco]
+LoseText = ¡Bien hecho!
+Pokemon = BUIZEL,10
+Pokemon = FLOATZEL,15
+#-------------------------------
+[PKTS_QUIQUELODEON,Quiquelodeon]
+LoseText = ¡Eres justo lo que estaba buscando!
+Pokemon = TOXTRICITY,20
+Pokemon = ELECTRIKE,20
+Pokemon = PKTS_CONKELDURR,20
+#-------------------------------
+[GUARDIA_CIVIL,Antonio]
+LoseText = Parece que estás limpio, ¡largo de aquí!
+Pokemon = POOCHYENA,20
+Pokemon = MIGHTYENA,20
+#-------------------------------
+[CHONI,Jessi]
+LoseText = No soy ni chula ni cabrona, soy tu envidia campeona.
+Pokemon = ROSELIA,20
+Pokemon = SKITTY,20
+#-------------------------------
+[CUNADO,Joaquín]
+LoseText = ¡No compres cava catalán, hay que hacer boicot a Cataluña!
+Pokemon = DUNSPARCE,20
+#-------------------------------
+[GUIRI,James]
+LoseText = ¿He perdido? ¡Bah! Desde balcones más altos he caído.
+Pokemon = SLOWBRO,20
+#-------------------------------
+[PIKACHU_ASH,Pikachu]
+LoseText = ¡Me voy con mi Ash rápido como un rayo!
+Pokemon = PKTS_ASH,20
+#-------------------------------
+[BOLIFACIO,Bolifacio]
+LoseText = ¡Tendré que darle aún más esteroides a mi Pikachad!
+Pokemon = PKTS_PIKACHAD,20
+#-------------------------------
+[LUIGI,Luigi]
+LoseText = ¡Cómo has podido hacerle eso a Yoshi!
+Pokemon = PKTS_YOSHI,20
+#-------------------------------
+[PKTS_CAR,Maria Car]
+LoseText = ¡Parece que las setas del bosque te han hecho más fuerte!
+Pokemon = AMOONGUSS,20
+Pokemon = SPRIGATITO,20
+	Name = CANELA
+Pokemon = SHIINOTIC,20
+#-------------------------------
+[GUARDIA_CIVIL,Josep]
+LoseText = Vale, me has convencido, ¡puedes pasar!
+Pokemon = POOCHYENA,20
+Pokemon = MIGHTYENA,20
+#-------------------------------
+[PKTS_KIKO,Kiko]
+LoseText = ¡Eres apto para acceder a la biblioteca!
+Pokemon = PIDOVE,20
+Pokemon = TRANQUILL,20
+Pokemon = REVAVROOM,20 
+#-------------------------------
+[ESTUDIANTE_M,Jordi]
+LoseText = ¡Puede que no sirva para los combates, ¡pero me convertiré en el as de las parillas!
+Pokemon = KOFFING,20
+Pokemon = GRIMER,20
+#-------------------------------
+[ESTUDIANTE_F,Mireia]
+LoseText = Todo el mundo sabe que Descartes no entra ni del palo, al igual que los Reinos Cristianos en la PAU.
+Pokemon = NIDORINO,20
+Pokemon = NIDORINA,20
+#-------------------------------
+[DUQUE,Gerard]
+LoseText = Creo que el verdadero dilema del prisionero es cómo explicarle a Kadabra por qué es tan paquete...
+Pokemon = ABRA,20
+Pokemon = KADABRA,20
+#-------------------------------
+[PKTS_NATXO,Natxo]
+LoseText = ¡Parece que las setas del bosque te han hecho más fuerte!
+Pokemon = KOFFING,20
+	Moves = SMOKESCREEN
+Pokemon = TRUBBISH, 20
+Pokemon = WEEZING,20
+Pokemon = PKTS_QUAGSIRE,20
+	MOVES = SLUDGEBOMB,MUDSHOT,POISONTAIL,YAWN
+#-------------------------------
+[GUIRI_F,Rachel]
+LoseText = !Deberías llamar a la puerta the next time!
+Pokemon = ABRA,20
+Pokemon = KADABRA,20
+#-------------------------------
+[CAYETANO,Borja]
+LoseText = ¿Sabrías indicarme donde está el Massimo Dutti más  cercano?
+Pokemon = ABRA,20
+Pokemon = KADABRA,20
+#-------------------------------
+[GUIRI_COUPLE,Harry & Grace]
+LoseText = ¡Has dejado a nuestros Pokémon más despellejados que nuestra skin!
+Pokemon = ABRA,20
+Pokemon = KADABRA,20
+#-------------------------------
+[CHICA_MAURI_ELECTRICO,Aspecto del Trueno]
+LoseText = ¡Impresionante! Has soportado la furia del rayo.
+Pokemon = JOLTEON,10
+#-------------------------------
+[CHICA_MAURI_AGUA,Aspecto del Agua]
+LoseText = ¡Has surfeado la ola!
+Pokemon = VAPOREON,10
+#-------------------------------
+[CHICA_MAURI_FUEGO,Aspecto del Fuego]
+LoseText = ¡Tienes chispa!
+Pokemon = FLAREON,10
+#-------------------------------
+[CHICA_MAURI_SINIESTRO,Aspecto de la Oscuridad]
+LoseText = Incluso en la oscuridad más profunda, has encontrado el camino.
+Pokemon = UMBREON,10
+#-------------------------------
+[CHICA_MAURI_PSIQUICO,Aspecto de la Luz]
+LoseText = ¡Impresionante poder mental!
+Pokemon = ESPEON,10
+#-------------------------------
+[CHICA_MAURI_HIELO,Aspecto del Hielo]
+LoseText = ¡Buen combate!
+Pokemon = GLACEON,10
+#-------------------------------
+[CHICA_MAURI_PLANTA,Aspecto de la Hoja]
+LoseText = ¡Eres toda una fuerza de la naturaleza!
+Pokemon = LEAFEON,10
+#-------------------------------
+[CHICA_MAURI_HADA,Aspecto del Alba]
+LoseText = ¡Buen combate!
+Pokemon = SYLVEON,10
+#-------------------------------
+[MONTANERO,Roberto]
+LoseText = ¡Vaya, tú también eres muy duro!
+Pokemon = EXCADRILL,20
+#-------------------------------
+[CAMPISTA_F,Sandra]
+LoseText = ¡El desierto no ha podido contigo!
+Pokemon = KROKOROK,20
+#-------------------------------
+[CHICA_MAURI_HADA,Erika]
+LoseText = El movimiento es vida en estas tierras. Quedarse quieto es desaparecer bajo las arenas.
+Pokemon = EEVEE,20
+Pokemon = VIBRAVA,20
+#-------------------------------
+[MONTANERO,Vicente]
+LoseText = ¡Tú seguro que sabes como encontrar la salida!
+Pokemon = SANDACONDA,20
+#-------------------------------
+[EXPLORADOR,Henry Walton]
+LoseText = ¡Debería estar en un museo!
+Pokemon = MAROWAK,20
+Pokemon = CLAYDOL,20
+#-------------------------------
+[PKTS_LUCIA,Lucia]
+LoseText = ¡Qué magnífico baile ha sido esta batalla!
+Pokemon = MIENSHAO,20
+Pokemon = POLTCHAGEIST,20
+Pokemon = PKTS_MEDICHAM,20
+#-------------------------------
+[NADADOR,Mariano]
+LoseText = ¡El desierto no ha podido contigo!
+Pokemon = PELIPPER,20
+#-------------------------------
+[NADADORA,Lola]
+LoseText = ¡El desierto no ha podido contigo!
+Pokemon = TENTACRUEL,20
+#-------------------------------
+[CHICO_FLOTADOR,Richi]
+LoseText = ¡El desierto no ha podido contigo!
+Pokemon = GYARADOS,20
+#-------------------------------
+[GUIRI,Bob]
+LoseText = ¿Por aquí no pasa la guagua? ¡Holy shit!
+Pokemon = FARFETCHD,20
+	Form = 1
+Pokemon = SIRFETCHD,20
+#-------------------------------
+[MOCHILERO,Carlos]
+LoseText = ¡Vas a poder subir a la cima sin problemas!
+Pokemon = MACHOKE,20
+Pokemon = GRAVELER,20
+#-------------------------------
+[RANGER_F,Eva]
+LoseText = ¡Las especies tropicales son una pasada!
+Pokemon = PIKIPEK,20
+Pokemon = TRUMBEAK,20
+Pokemon = PANCHAM,20
+#-------------------------------
+[RANGER_M,Alex]
+LoseText = Parece que controlas bastante.
+Pokemon = TORKOAL,20
+Pokemon = SLUGMA,20
+#-------------------------------
+[MOCHILERA,Julia]
+LoseText = Has vencido, pero la montaña aún me espera. ¡Nos vemos arriba!
+Pokemon = GROWLITHE,20
+Pokemon = RAPIDASH,20
+#-------------------------------
+[PKTS_MARTA,Marta]
+LoseText = ¡Vaya combate más brutalítico!
+Pokemon = TOUCANNON,20
+Pokemon = CAMERUPT,20
+Pokemon = PKTS_TROMPHAN,20
+#-------------------------------
+[MONTANERO,Ricardo]
+LoseText = Te dejaría el mío pero es talla XXXL.
+Pokemon = GROWLITHE,20
+Pokemon = RAPIDASH,20
+#-------------------------------
+[KARATE_COUPLE,¡Hiyaaah!]
+LoseText = ¿Cómo?¡Has terminado la racha de victorias de los hermanos Hiyaah!
+Pokemon = HITMONLEE,20
+Pokemon = HITMONCHAN,20
+Pokemon = HITMONTOP,20
+Pokemon = HITMONTOP,20
+#-------------------------------
+[NADADOR,Jaime]
+LoseText = Por culpa de esta ruta se nos llenan las Islas Canarias de guiris.
+Pokemon = WAILMER,20
+Pokemon = WAILORD,20
+#-------------------------------
+[NADADORA,Julia]
+LoseText = ¡Creo que veo tierra!
+Pokemon = TENTACRUEL,20
+Pokemon = STARMIE,20
+#-------------------------------
+[PKTS_HELGA_1,Helga]
+LoseText = ¡Vaya, parece que quieres más caña!
+Pokemon = SPOINK,20
+#-------------------------------
+[PKTS_HELGA_2,Helga]
+LoseText = "¿Cómo? ¡Si mi Pokémon era estupendo!
+Pokemon = OBSTAGOON,20
+#-------------------------------
+[PKTS_HELGA_3,Helga]
+LoseText = ¡Lleva cuidado, que está impreso en 3D!
+Pokemon = TAUROS,20
+#-------------------------------
+[PKTS_HELGA_4,Helga]
+LoseText = Has superado todas las salas, ¡unbelievable!
+Pokemon = LUNATONE,20
+Pokemon = COPPERAJAH,20
+Pokemon = GRUMPIG,20
+Pokemon = PKTS_GARY,20
+#-------------------------------
+[CHICA_PARASOL,Daisy]
+LoseText = ¡Jolín, he perdido! Esto es peor que un día sin paraguas en Dublín...
+Pokemon = BUDEW,20
+Pokemon = ROSELIA,20
+Pokemon = ROSERADE,20
+#-------------------------------
+[ENTRENADORGUAY,Patrick]
+LoseText = Ahora que me fijo mi trébol es de tres hojas...
+Pokemon = ROCKRUFF,20
+Pokemon = LYCANROC,20
+	Form = 0
+Pokemon = LYCANROC,20
+	Form = 1
+Pokemon = LYCANROC,20
+	Form = 2
+#-------------------------------
+[CAZABICHOS_M,Pedro]
+LoseText = Debería entrenar a otro tipo de Pokémon que no sea el bicho...
+Pokemon = DUSTOX, 20
+Pokemon = PARASECT, 20
+#-------------------------------
+[PIROMANO,Miguel]
+LoseText = Este combate me ha sentado como una jarra de agua fría...
+Pokemon = MAGCARGO, 20
+Pokemon = PYROAR, 20
+#-------------------------------
+[MOCHILERA,Eduarda]
+LoseText = ¡Disfruta de lo que hay más allá de esta cueva!
+Pokemon = RHYHORN, 20
+Pokemon = PILOSWINE, 20
+#-------------------------------
+[DAMISELA,Lucía]
+LoseText =¡Has ganado justamente, te daré una pista!
+Pokemon = ROSELIA, 20
+Pokemon = BRELOOM, 20
+#-------------------------------
+[DAMISELA,Andrea]
+LoseText = ¡Has ganado justamente, te daré una pista!
+Pokemon = GLOOM, 20
+Pokemon = BELLOSSOM, 20
+#-------------------------------
+[DAMISELA,Nuria]
+LoseText = ¡Has ganado justamente, te daré una pista!
+Pokemon = SKIPLOOM, 20
+Pokemon = JUMPLUFF, 20
+#-------------------------------
+[DAMISELA,Patricia]
+LoseText = ¡Has ganado justamente, te daré una pista!
+Pokemon = TROPIUS, 20
+Pokemon = SHIFTRY, 2
+#-------------------------------
+[PKTS_QUIQUE,Quique]
+LoseText = Parece que me he calentado demasiado...
+Pokemon = SUNFLORA, 20
+Pokemon = BELLOSSOM, 20
+Pokemon = ROSERADE, 20
+Pokemon = PKTS_FLORFLOWER, 20
+#-------------------------------
+[VASCO,Antxon]
+LoseText = ¡Aiba la hostia!
+Pokemon = GRAVELER, 20
+Pokemon = LAIRON, 20
+#-------------------------------
+[CUNADO,Guillermo]
+LoseText = ¿Cómo he podido perder con este tremendo equipo?
+Pokemon = LINOONE, 20
+Pokemon = METAPOD, 20
+Pokemon = MAGIKARP, 20
+Pokemon = WOOPER, 20
+#-------------------------------
+[VASCO,Aitor]
+LoseText = ¿Eres de Murcia? Vivir en un desierto no debe de ser fácil...
+Pokemon = KLINK, 20
+Pokemon = KLANG, 20
+Pokemon = KLINKLANG, 20
+#-------------------------------
+[JOVEN,Miguel]
+LoseText = ¡Eso no ha vale!
+Pokemon = KECLEON, 20
+Pokemon = ABSOL, 20
+#-------------------------------
+[POLICIA,Óscar]
+LoseText = ¡Vaya, eres bastante fuerte!
+Pokemon = MIGHTYENA, 20
+Pokemon = ARCANINE, 20
+#-------------------------------
+[MOTERO,Ernesto]
+LoseText = Parece que se me da mejor imitar a una moto que combatir, ¡je, je!
+Pokemon = KOFFING, 20
+Pokemon = WEEZING, 20
+#-------------------------------
+[MOTERO,Gabriel]
+LoseText = ¡Gracias por el combate! A ver si los cabrones de Grúas Tommy no tardan...
+Pokemon = MANKEY, 20
+Pokemon = PRIMEAPE, 20
+#-------------------------------
+[MOTERO,Carlos]
+LoseText = Sigue tu camino pieza, sino quieres que te pegue un escarmiento.
+Pokemon = MACHOP, 20
+Pokemon = MACHOKE, 20
+Pokemon = MACHAMP, 20
+#-------------------------------
+[ENTRENADORGUAY,Faustino]
+LoseText = ¡Te he subestimado!
+Pokemon = PIKACHU, 20
+#-------------------------------
+[RIVAL_Link,Link, 7]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_FUEGO1,5
+	Moves = SCRATCH
+	IV = 1,1,1,1,1,1
+#-------------------------------
+[RIVAL_Link,Link, 8]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_AGUA1,5
+#-------------------------------
+[RIVAL_Link,Link, 9]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_PLANTA1,5
+#-------------------------------
+[RIVAL_Lien,Lien, 7]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_FUEGO1,5
+#-------------------------------
+[RIVAL_Lien,Lien, 8]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_AGUA1,5
+#-------------------------------
+[RIVAL_Lien,Lien, 9]
+LoseText = ¡Me has ganado por poco!
+Pokemon = PKTS_STARTER_PLANTA1,5
+#-------------------------------
+[PRESO_PUNKY,Cristóbal]
+LoseText = ¡Eso no me lo decís en la calle!
+Pokemon = SABLEYE,20
+#-------------------------------
+[PRESO_CALVO,Guillermo]
+LoseText = Tan loco no estaré sino gano a un par de pringaos a un combate Pokémon...
+Pokemon = LINOONE,20
+#-------------------------------
+[PRESO_PUNKY,Francis]
+LoseText = Al parecer también soy malo entrenando Pokémon...
+Pokemon = RATICATE,20
+#-------------------------------
+[PRESO_BARBA,Néstor]
+LoseText = Parece que vamos a estar aquí un tiempo más...
+Pokemon = GOLBAT,20
+#-------------------------------
+[GUARDIA_CIVIL_PRISION,Juan]
+LoseText = Puede que nos hayáis vencido, ¡pero nunca derrotaréis al alcaide!
+Pokemon = GROWLITHE,20
+#-------------------------------
+[GUARDIA_CIVIL_PRISION,Pedro]
+LoseText = ¡No os saldréis con la vuestra!
+Pokemon = VULPIX,20
+#-------------------------------
+[GUARDIA_CIVIL_PRISION,Víctor]
+LoseText = ¡El informático nunca cantará, es el mejor pagado en la prisión!
+Pokemon = MIGHTYENA,20
+#-------------------------------
+[GUARDIA_CIVIL_PRISION,Alfredo]
+LoseText = Nos habéis dado una buena paliza, sois demasiado fuertes...
+Pokemon = ABSOL,20
+#-------------------------------
+[ALCAIDE,Héctor]
+LoseText = Parece que os tendré que dar el dichoso código...
+Pokemon = ARCANINE,20
+Pokemon = RAPIDASH,20
+#-------------------------------
+[TEAMROCKET_COUPLE,Jessie y James]
+LoseText = Parece que os tendré que dar el dichoso código...
+Pokemon = ARBOK,20
+Pokemon = WEEZING,20
+Pokemon = VICTREEBEL,20
+Pokemon = WOBBUFFET,20
+#-------------------------------
+[PKTS_ALFI_PARTNER,Alfi]
+LoseText = ¡Vaya lección de combates bro!
+Pokemon = SEISMITOAD,50
+Pokemon = CRAWDAUNT, 50
+Pokemon = WISHIWASHI,50
+Pokemon = KYOGRE, 100
+#-------------------------------
+[PKTS_ALFI,Alfi]
+LoseText = ¡Vaya lección de combates bro!
+Pokemon = SEISMITOAD,20
+Pokemon = CRAWDAUNT, 20
+Pokemon = WISHIWASHI,20
+Pokemon = PKTS_SHARPEDO,20
+#-------------------------------
+[MOCHILERO,Ramiro]
+LoseText = ¡Si llegas a la cima piensa en un buen deseo!
+Pokemon = GOLETT, 20	
+Pokemon = GOLURK, 20	
+#-------------------------------
+[MOCHILERA,Eva]
+LoseText = Bueno seguiré dando vueltas hasta encontrarme conmigo misma.
+Pokemon = BRELOOM, 20	
+Pokemon = TROPIUS, 20	
+#-------------------------------
+[MONTANERO,Enrique]
+LoseText = La cima no es el final, sino el coimienzo de algo más grande.
+Pokemon = LARVITAR, 20	
+Pokemon = PUPITAR, 20	
+Pokemon = GRAVELER, 20	
+#-------------------------------
+[MEDIUM_M,Orion]
+LoseText = La derrota no es el fin, sino un peldaño hacia la iluminación.
+Pokemon = HAUNTER, 20	
+Pokemon = KADABRA, 20	
+#-------------------------------
+[MEDIUM_F,Aurora]
+LoseText = Esto es solo una prueba más. El Gran Manu me guiará para superar mi propia debilidad.
+Pokemon = DUOSION, 20	
+Pokemon = REUNICLUS, 20	
+#-------------------------------
+[PKTS_MANU,Manu]
+LoseText = ¡Vaya demostración de fuerza interior!
+Pokemon = MAROWAK, 20
+	Form = 1
+Pokemon = KADABRA,20
+Pokemon = OBSTAGOON, 20
+Pokemon = PKTS_MEDICHAM, 20	
+#-------------------------------
+[ESQUIADORA,Laura]
+LoseText = Vaya parece que mi dignidad ha quedado enterrada en el fondo de la nieve...
+Pokemon = LAIRON, 20	
+Pokemon = SNOVER, 20
+Pokemon = VANILLITE,20
+#-------------------------------
+[ESQUIADOR,Felipe]
+LoseText = Ni comprando los mejores Pokémon Noruegos consigo ganar un mísero combate...
+Pokemon = PILOSWINE, 20	
+Pokemon = MAMOSWINE, 20	
+#-------------------------------
+[SNOWBOARDER,Tomás]
+LoseText = Vaya, parece que me has dado de mi propia medicina...
+Pokemon = SNOVER, 20
+Pokemon = ABOMASNOW, 20
+#-------------------------------
+[SNOW_WORKER,Antonio]
+LoseText = Parece que tendré que ir a la autoescuela de quitanieves a que me den un par de lecciones...
+Pokemon = VANILLITE,20
+Pokemon = VANILLISH, 20	
+
+
+	
+	
+
+
+
+#-------------------------------
+[VIKINGO,Rolo]
+LoseText = ¡Eres todo un guerrero!
+Pokemon = ZORUA,20
+Pokemon = ZOROARK,20
+#-------------------------------
+[CABALLERO,Lancelot]
+LoseText = A quien quiero engañar, nose ni como coger la espada...
+Pokemon = BISHARP,20
+#-------------------------------
+[CABALLERO,Alonso Quijano]
+LoseText = No huye el que se retira.
+Pokemon = KINGAMBIT,20
+#-------------------------------
+[VIKINGO,Victor]
+LoseText = ¡Guau! Eres un buen estratega
+Pokemon = PERRSERKER,20
+#-------------------------------
+[CABALLERA,Laura]
+LoseText = ¡Pues no eres ningún debilucho!
+Pokemon = SIRFETCHD,20
+#-------------------------------
+[PKTS_ANA_MARIA,Ana María]
+LoseText = ¡Mi suerte no me ha salvado esta vez!
+Pokemon = MUDKIP,1
+	Moves = QUICKATTACK,ENDEAVOR
+	Item = FOCUSSASH
+Pokemon = TOGEKISS,20
+	Ability = SUPERLUCK
+	Moves = AIRSLASH,DAZZLINGGLEAM,ROOST
+	Item = SCOPELENS
+Pokemon = SWAMPERT,20
+#-------------------------------
+[PKTS_JORGE,Jorge,1]
+LoseText = ¡Vaya, hacía años que no disfrutaba tanto de un combate!
+Pokemon = TOXTRICITY,20
+	Moves = CHARM,EERIEIMPULSE,SNARL,ELECTROWEB
+	Item = SHUCABERRY
+	EV = 252,0,126,0,126,0
+Pokemon = UMBREON,20
+	Moves = TOXIC,WILLOWISP,WISH,PROTECT
+	Item = LEFTOVERS
+Pokemon = TYRANITAR,20
+	Moves = STONEEDGE,CRUNCH,EARTHQUAKE,ICEPUNCH
+	Item = ASSAULTVEST
+Pokemon = DOUBLADE,20
+	Moves = NIGHTSHADE,PAINSPLIT
+	Item = EVIOLITE
+	EV = 0,0,252,0,252,0
+#-------------------------------
+[PKTS_JORGE,Jorge,2]
+LoseText = ¡Ya era hora, al emnos ahs podido con el segundo equipo!
+Pokemon = TOXTRICITY,20
+Pokemon = UMBREON,20
+Pokemon = TYRANITAR,20
+Pokemon = DOUBLADE,20
+#-------------------------------
+[ELITE_TRAINER,Eusine, 1]
+LoseText = ¡No esperaba este resultado!
+Pokemon = SCIZOR,20
+Pokemon = KLEAVOR,20
+#-------------------------------
+[ELITE_TRAINER,Eusine, 2]
+LoseText = ¡Tienes potencial!
+Pokemon = PORYGON2,20
+	Moves = TRICKROOM,RECOVER,ICEBEAM,THUNDERBOLT
+	Item = EVIOLITE
+Pokemon = PORYGONZ,20
+#-------------------------------
+[ELITE_TRAINER,Eusine, 3]
+LoseText = ¡Tus Pokémon están creciendo!
+Pokemon = NIDOQUEEN,20
+pOKEMON = NIDOKING,20
+#-------------------------------
+[ELITE_TRAINER,Eusine, 4]
+LoseText = ¡Ya eres todo un entrenador Pokémon!
+Pokemon = GYARADOS,20
+Pokemon = FLYGON,20
+#-------------------------------
+[ELITE_TRAINER,Eusine, 5]
+LoseText = ¡Con esa fuerza quizás tengas una opción en el desierto!
+Pokemon = TYRANITAR,20
+Pokemon = LYCANROC,20
+	Form = 2
+#-------------------------------
+[ELITE_TRAINER,Eusine, 6]
+LoseText = ¡Has vuelto a ganar!
+Pokemon = TORKOAL,20
+	Ability = DROUGHT
+Pokemon = VENUSAUR,20
+	Ability = CHLOROPHYLL
+#-------------------------------
+[ELITE_TRAINER,Eusine, 7]
+LoseText = ¡Parece que tu fuerza no tiene límites!
+Pokemon = PELIPPER,20
+	Ability = DRIZZLE
+Pokemon = KINGDRA,20
+	Ability = SWIFTSWIM
