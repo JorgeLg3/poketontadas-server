@@ -268,8 +268,6 @@ Pokemon = VAROOM,20
 #-------------------------------
 [PKTS_BOTIA,Botia]
 LoseText = ¡Qué gran combate!
-Pokemon = VAROOM,20
-Pokemon = KLANG, 21
 Pokemon = PKTS_CABRILLA,23
     Moves = GEARGRIND,FLASHCANNON,SHIFTGEAR,IRONTAIL
 #-------------------------------

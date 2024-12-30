@@ -6109,13 +6109,13 @@ Flags = Fling_30
 Description = Un objeto que atrae a los Pokémon. Puedes utilizarlo para huir de un combate con un Pokémon salvaje.
 #-------------------------------
 [BICYCLE]
-Name = Moto
-NamePlural = Motos
+Name = Llaves Moto
+NamePlural = Llaves Moto
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Moto algo anitcuada pero que permite desplazarte más rápido que con las deportivas.
+Description = Llaves de una moto algo anitcuada pero que permite desplazarte más rápido que con las deportivas.
 #-------------------------------
 [OLDROD]
 Name = Caña de Pescar
