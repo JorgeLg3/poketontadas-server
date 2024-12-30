@@ -7406,9 +7406,9 @@ ShadowSize = 2
 #-------------------------------
 [PKTS_STARTER_PLANTA3]
 BackSprite = 0,0
-FrontSprite = 0,32
+FrontSprite = -3,8
 ShadowX = 0
-ShadowSize = 2
+ShadowSize = 3
 #-------------------------------
 [DARK_CHARIZARD]
 BackSprite = 0,0
@@ -7487,3 +7487,45 @@ BackSprite = 0,0
 FrontSprite = 0,6
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[PKTS_HOLAYOLE1]
+BackSprite = 0,0
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[PKTS_HOLAYOLE2]
+BackSprite = 0,0
+FrontSprite = 7,27
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[DARK_LUGIA]
+BackSprite = 0,0
+FrontSprite = -6,5
+ShadowX = 15
+ShadowSize = 3
+#-------------------------------
+[PKTS_DONPHAN]
+BackSprite = 0,0
+FrontSprite = -5,29
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[PKTS_TERRAPHAN]
+BackSprite = 0,0
+FrontSprite = -6,24
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[PKTS_QUAGSIRE]
+BackSprite = 0,0
+FrontSprite = 0,11
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[PRIMALDIALGA]
+BackSprite = 0,0
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 3

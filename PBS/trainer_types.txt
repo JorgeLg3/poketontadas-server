@@ -21,7 +21,7 @@ BaseMoney = 60
 [RIVAL_Link]
 Name = Rival
 Gender = Male
-BaseMoney = 60
+BaseMoney = 100
 IntroBGM = pkts_Rival_Meet
 BattleBGM = pkts_Rival_Battle
 VictoryBGM = pkts_Rival_Victory
@@ -29,7 +29,7 @@ VictoryBGM = pkts_Rival_Victory
 [RIVAL_Lien]
 Name = Rival
 Gender = Female
-BaseMoney = 60
+BaseMoney = 100
 IntroBGM = pkts_Rival_Meet
 BattleBGM = pkts_Rival_Battle
 VictoryBGM = pkts_Rival_Victory
@@ -112,46 +112,52 @@ BaseMoney = 30
 [PKTS_FER]
 Name = Ingeniero
 Gender = Male
-BaseMoney = 60
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [KARATEKA]
 Name = Karateka
 Gender = Male
-BaseMoney = 20
+BaseMoney = 30
 #-------------------------------
 [CHICA_PARASOL]
 Name = Damisela
 Gender = Female
-BaseMoney = 20
+BaseMoney = 30
 #-------------------------------
 [ENFERMERO]
 Name = Enfermero
 Gender = Male
-BaseMoney = 20
+BaseMoney = 30
 #-------------------------------
 [ENFERMERA]
 Name = Enfermera
 Gender = Female
-BaseMoney = 20
+BaseMoney = 30
 #-------------------------------
 [PKTS_EMMA]
 Name = Jefa Enfermería
 Gender = Female
-BaseMoney = 60
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [MONTANERO]
 Name = Montañero
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 IntroBGM = pkts_meet_montanero
 #-------------------------------
 [PKTS_EULOGIO]
 Name = Molinense
 Gender = Male
-BaseMoney = 40
+BaseMoney = 80
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [ORNITOLOGO]
 Name = Ornitólogo
@@ -166,290 +172,308 @@ BaseMoney = 40
 [MOTERO]
 Name = Motero
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [MOTORISTA]
 Name = Motorista
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [PKTS_BOTIA]
 Name = Motero
 Gender = Male
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [CUNADO]
 Name = Cuñado
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [PORQUERO]
 Name = Porquero
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [GUARDIA_CIVIL]
 Name = Guardia Civil
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [CHONI]
 Name = Choni
 Gender = Female
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [GUIRI]
 Name = Guiri
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [GUIRI_F]
 Name = Guiri
 Gender = Female
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [GUIRI_COUPLE]
 Name = Pareja de Guiris
 Gender = Unknown
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [MARINERO]
 Name = Marinero
 Gender = Male
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [PKTS_QUIQUELODEON]
 Name = Batería
 Gender = Male
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [PIKACHU_ASH]
 Name = Pokémon
 Gender = Male
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [BOLIFACIO]
 Name = Chico PokéBall
 Gender = Male
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [LUIGI]
 Name = Hermano
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 #-------------------------------
 [PKTS_CAR]
 Name = Micóloga
 Gender = Female
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [PKTS_KIKO]
 Name = Alcalde
 Gender = Male
-BaseMoney = 40
+BaseMoney = 80
 BattleBGM = pkts_Battle_Kiko
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [ESTUDIANTE_F]
 Name = Estudiante
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [ESTUDIANTE_M]
 Name = Estudiante
 Gender = Male
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [DUQUE]
 Name = Duque
 Gender = Male
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [PKTS_NATXO]
 Name = Filósofo
 Gender = Male
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [CAYETANO]
 Name = Cayetano
 Gender = Male
-BaseMoney = 20
+BaseMoney = 80
 #-------------------------------
 [CHICA_MAURI_AGUA]
-Name = Bailarina
+Name = Bailarina del
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [CHICA_MAURI_ELECTRICO]
-Name = Bailarina
+Name = Bailarina del
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [CHICA_MAURI_FUEGO]
-Name = Bailarina
+Name = Bailarina del
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [CHICA_MAURI_HADA]
-Name = Bailarina
+Name = Bailarina del
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [CHICA_MAURI_HIELO]
-Name = Bailarina
+Name = Bailarina del
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [CHICA_MAURI_PLANTA]
-Name = Bailarina
+Name = Bailarina de la
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [CHICA_MAURI_PSIQUICO]
-Name = Bailarina
+Name = Bailarina de la
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [CHICA_MAURI_SINIESTRO]
-Name = Bailarina
+Name = Bailarina de la
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [EXPLORADOR]
 Name = Explorador
 Gender = Male
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [PKTS_LUCIA]
 Name = Maestra de la Danza
 Gender = Female
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [NADADOR]
 Name = Male
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [NADADORA]
 Name = Nadadora
 Gender = Female
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [CHICO_FLOTADOR]
 Name = Chico Flotador
 Gender = Male
-BaseMoney = 20
+BaseMoney = 50
 #-------------------------------
 [MOCHILERO]
 Name = Mochilero
 Gender = Female
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [MOCHILERA]
 Name = Mochilera
 Gender = Female
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [POKEMANIACO]
 Name = Pokemaníaco
 Gender = Male
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [RANGER_M]
 Name = Ranger
 Gender = Male
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [RANGER_F]
 Name = Ranger
 Gender = Male
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [KARATE_COUPLE]
 Name = Hermanos
 Gender = Unknown
-BaseMoney = 40
+BaseMoney = 60
 IntroBGM = pkts_meet_karateka
 #-------------------------------
 [PKTS_MARTA]
 Name = Escaladora
 Gender = Female
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [PKTS_HELGA_1]
 Name = Festivalera
 Gender = Female
-BaseMoney = 40
+BaseMoney = 100
 #-------------------------------
 [PKTS_HELGA_2]
 Name = Festivalera
 Gender = Female
-BaseMoney = 40
+BaseMoney = 100
 #-------------------------------
 [PKTS_HELGA_3]
 Name = Festivalera
 Gender = Female
-BaseMoney = 40
+BaseMoney = 100
 #-------------------------------
 [PKTS_HELGA_4]
 Name = Festivalera
 Gender = Female
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [PIROMANO]
 Name = Pirómano
 Gender = Male
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [DAMISELA]
 Name = Damisela
 Gender = Female
-BaseMoney = 30
+BaseMoney = 60
 IntroBGM = pkts_meet_damisela
 #-------------------------------
 [PKTS_QUIQUE]
 Name = Botánico
 Gender = Male
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [VASCO]
 Name = Vasco
 Gender = Male
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [POLICIA]
 Name = Policía
 Gender = Male
-BaseMoney = 30
+BaseMoney = 60
 #-------------------------------
 [ENTRENADORGUAY]
 Name = Entrenador Guay
 Gender = Male
-BaseMoney = 50
+BaseMoney = 80
 #-------------------------------
 [ENTRENADORAGUAY]
 Name = Entrenadora Guay
 Gender = Female
-BaseMoney = 50
+BaseMoney = 80
 #-------------------------------
 [PRESO]
 Name = Entrenador Pokémon
 Gender = Male
-BaseMoney = 10
+BaseMoney = 20
 IntroBGM = pkts_Preso_Meet
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
 [GUARDIA_CIVIL_PRISION]
 Name = Entrenador Pokémon
 Gender = Male
-BaseMoney = 20
+BaseMoney = 50
 IntroBGM = pkts_Preso_Meet
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
@@ -474,109 +498,208 @@ BattleBGM = pkts_Preso_Battle
 [ALCAIDE]
 Name = Entrenador Pokémon
 Gender = Male
-BaseMoney = 50
+BaseMoney = 60
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
 [TEAMROCKET_COUPLE]
 Name = Dúo
 Gender = Unknown
-BaseMoney = 50
+BaseMoney = 60
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
 [PKTS_ALFI_PARTNER]
 Name = Buceador
 Gender = Male
-BaseMoney = 20
+BaseMoney = 40
 Flags = ReserveLastPokemon
 #-------------------------------
 [PKTS_ALFI]
 Name = Buceador
 Gender = Male
-BaseMoney = 20
+BaseMoney = 100
 Flags = ReserveLastPokemon
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [MEDIUM_M]
 Name = Médium
 Gender = Male
-BaseMoney = 30
+BaseMoney = 60
 IntroBGM = pkts_Medium_Meet
 #-------------------------------
 [MEDIUM_F]
 Name = Médium
 Gender = Female
-BaseMoney = 30
+BaseMoney = 60
 IntroBGM = pkts_Medium_Meet
 #-------------------------------
 [PKTS_MANU]
 Name = Líder Espiritual
 Gender = Male
-BaseMoney = 40
+BaseMoney = 100
 Flags = ReserveLastPokemon
-
-
-
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
+#-------------------------------
+[CHICO_SAUNA]
+Name = Chico Sauna
+Gender = Male
+BaseMoney = 80
+#-------------------------------
+[CHICA_SAUNA]
+Name = Chica Sauna
+Gender = Female
+BaseMoney = 80
+#-------------------------------
+[CONSERJE]
+Name = Conserje
+Gender = Male
+BaseMoney = 50
+#-------------------------------
+[PKTS_ROW]
+Name = Profesora
+Gender = Female
+BaseMoney = 100
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [ESQUIADOR]
 Name = Esquiador
 Gender = Male
-BaseMoney = 30
+BaseMoney = 80
 #-------------------------------
 [ESQUIADORA]
 Name = Esquiadora
 Gender = Female
-BaseMoney = 30
+BaseMoney = 80
 #-------------------------------
 [SNOWBOARDER]
 Name = Snowboarder
 Gender = Male
-BaseMoney = 30
+BaseMoney = 80
 #-------------------------------
 [SNOW_WORKER]
 Name = Operario
 Gender = Male
-BaseMoney = 30
-
-
-
-
+BaseMoney = 80
 #-------------------------------
 [VIKINGO]
 Name = Vikingo
 Gender = Male
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [CABALLERO]
 Name = Caballero
 Gender = Male
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [CABALLERA]
 Name = Caballera
 Gender = Female
-BaseMoney = 20
+BaseMoney = 60
 #-------------------------------
 [PKTS_ANA_MARIA]
 Name = Exiliada
 Gender = Female
-BaseMoney = 20
+BaseMoney = 140
 SkillLevel = 100
+BattleBGM = pkts_Battle_Colega
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [PKTS_JORGE]
 Name = Rey del Castillo
 Gender = Male
-BaseMoney = 20
+BaseMoney = 100
 SkillLevel = 100
+BattleBGM = pkts_Battle_Jorge
+VictoryBGM = pkts_Battle_Colega_Victory
+#-------------------------------
+[PKTS_JP_FINAL]
+Name = Profesor
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = pkts_Battle_Jp
+VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [ELITE_TRAINER]
 Name = Entrenador de Elite
 Gender = Male
-BaseMoney = 20
+BaseMoney = 80
 SkillLevel = 100
-
-
-
-
-
+#-------------------------------
+[FLUIDOR_M]
+Name = Recluta
+Gender = Male
+BaseMoney = 50
+BattleBGM = pkts_vs_equipofluidor
+#-------------------------------
+[FLUIDOR_F]
+Name = Recluta
+Gender = Female
+BaseMoney = 50
+BattleBGM = pkts_vs_equipofluidor
+#-------------------------------
+[FLUIDOR_DOUBLE]
+Name = Altos Rangos
+Gender = Female
+BaseMoney = 50
+BattleBGM = pkts_vs_equipofluidor
+#-------------------------------
+[KAIROS]
+Name = Líder Equipo Fluidor
+Gender = Male
+BaseMoney = 100
+BattleBGM = pkts_vs_equipofluidor
+Flags = ReserveLastPokemon
+#-------------------------------
+[LINK]
+Name = Hyliano
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+BattleBGM = pkts_vsLink
+VictoryBGM = pkts_Battle_Colega_Victory
+#-------------------------------
+[MARDANIS]
+Name = Muhammad ibn
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+VictoryBGM = pkts_Battle_Colega_Victory
+#-------------------------------
+[ROJO]
+Name = Entrenador
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+BattleBGM = pkts_Battle_Jorge
+BattleBGM = Battle_vsRojo
+VictoryBGM = pkts_Battle_Colega_Victory
+#-------------------------------
+[ORO]
+Name = Entrenador
+Gender = Male
+BaseMoney = 200
+SkillLevel = 100
+BattleBGM = Battle_vsOro
+VictoryBGM = pkts_Battle_Colega_Victory
+#-------------------------------
+[AURA]
+Name = Entrenadora
+Gender = Female
+BaseMoney = 200
+SkillLevel = 100
+BattleBGM = Battle_vsAura
+VictoryBGM = pkts_Battle_Colega_Victory
+#-------------------------------
+[MAYA]
+Name = Entrenadora
+Gender = Female
+BaseMoney = 200
+SkillLevel = 100
+BattleBGM = Battle_vsMaya
+VictoryBGM = pkts_Battle_Colega_Victory
 
 
 

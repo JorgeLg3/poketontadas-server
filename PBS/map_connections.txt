@@ -10,13 +10,13 @@
 8,South,0,7,North,1
 # Ruta 04 (15) - El Palmar (14)
 15,North,0,14,South,14
-# Gorguel (78) - Ruta 08 (75)
-78,South,26,75,North,0
+# Ruta 08 (75) - Gorguel (78)
+75,North,0,78,South,46
 # Ruta 09 (88) - Tenerife (93)
 88,West,0,93,East,6
 # Ruta 10 (94) - Volcán Teide (97)
-94,North,0,97,South,0
-# Mazmorra Final (115) - Mazmorra Final (154)
-115,North,0,154,South,6
+94,North,0,97,South,8
 # Ruta 11 (95) - Dublín (166)
 95,North,0,166,South,7
+# Bosque Astral (115) - Bosque Astral (154)
+115,North,0,154,South,6

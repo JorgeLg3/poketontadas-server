@@ -8,6 +8,7 @@ Name = Murcia
 Outdoor = true
 ShowArea = true
 Bicycle = true
+BattleBack = city
 #-------------------------------
 [003]   # Ruta 01
 Name = Ruta 01
@@ -45,6 +46,10 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
+[009]   # FCS
+Name = FCS
+BattleBack = fcs
+#-------------------------------
 [013]   # Ruta 03
 Name = Ruta 03
 Outdoor = true
@@ -70,8 +75,8 @@ MapPosition = 0,14,12
 BattleBack = camino
 MapSize = 2,1011
 #-------------------------------
-[021]   # Cartagena, 2015
-Name = Cartagena
+[021]   # Cartagena - 2015
+Name = Cartagena - 2015
 ShowArea = true
 BattleBack = distortion
 #-------------------------------
@@ -83,15 +88,20 @@ BattleBack = nebrija
 Name = Alquileres Doal
 BattleBack = laboratorio
 #-------------------------------
-[031]   # Cueva Marfil
+[031]   # Cueva de Marfil
 Name = Cueva Marfil
 ShowArea = true
+BattleBack = cave2
+#-------------------------------
+[036]   # Piso Eulogio
+Name = Piso Eulogio
+BattleBack = interiores
 #-------------------------------
 [038]   # Taberna
 Name = Interiores Ruta 03
 #-------------------------------
 [042]   # Ruta 05
-Name = Gorguel
+Name = Ruta 05
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -104,6 +114,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,18,11
+SnapEdges = true
 BattleBack = ruta6
 MapSize = 2,11
 #-------------------------------
@@ -112,6 +123,7 @@ Name = Valencia
 Outdoor = true
 ShowArea = true
 Bicycle = true
+BattleBack = beach
 #-------------------------------
 [045]   # Ruta 07
 Name = Ruta 07
@@ -124,9 +136,8 @@ MapSize = 1,111
 #-------------------------------
 [046]   # Bosque Espora
 Name = Bosque Espora
-MapPosition = 0,21,9
+MapPosition = 0,20,9
 BattleBack = bosque
-MapSize = 2,11
 #-------------------------------
 [047]   # Biblioteca
 Name = Biblioteca
@@ -136,12 +147,14 @@ BattleBack = biblioteca
 Name = Pirineos
 Outdoor = true
 ShowArea = true
+MapPosition = 0,19,6
 BattleBack = pirineos
 #-------------------------------
 [052]   # Despacho Ferfiera
 Name = Carrera contra Botia
 Outdoor = true
 ShowArea = true
+BattleBack = fernando
 #-------------------------------
 [060]   # Biblioteca
 Name = Biblioteca
@@ -154,7 +167,16 @@ BattleBack = bosquedorado
 [062]   # Prebosque
 Name = Bosque Espora
 ShowArea = true
+MapPosition = 0,20,9
 BattleBack = bosque
+#-------------------------------
+[063]   # Bosque Rojo
+Name = Bosque Rojo
+BattleBack = bosquerojo
+#-------------------------------
+[064]   # Bosque Mario
+Name = Bosque Mario
+BattleBack = mario
 #-------------------------------
 [067]   # Sala Conciertos
 Name = Sala Conciertos
@@ -171,10 +193,15 @@ ShowArea = true
 Bicycle = true
 BattleBack = city
 #-------------------------------
+[074]   # Ajuntament
+Name = Ajuntament
+BattleBack = kiko
+#-------------------------------
 [075]   # Ruta 08
 Name = Ruta 08
 Outdoor = true
 ShowArea = true
+MapPosition = 0,16,17
 BattleBack = beach
 #-------------------------------
 [078]   # Gorguel
@@ -184,23 +211,31 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,16,16
 #-------------------------------
+[079]   # Carrera contra Botia
+Name = Carrera contra Botia
+BattleBack = islapistolas
+#-------------------------------
 [081]   # Mauritania
 Name = Mauritania
 Outdoor = true
 ShowArea = true
 Bicycle = true
 SnapEdges = true
+BattleBack = desert
 #-------------------------------
 [082]   # Trondheim
+Name = Trondheim
 Outdoor = true
 ShowArea = true
+Weather = Snow,100
 #-------------------------------
-[085]   # Ruta Desierto
-Name = Ruta Desierto
+[085]   # Desierto
+Name = Desierto
 Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Sandstorm,100
+MapPosition = 0,16,19
 BattleBack = desert
 #-------------------------------
 [086]   # Ruinas del Desierto
@@ -216,30 +251,40 @@ Name = Ruta 09
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,5,18
+BattleBack = subidateide
+MapSize = 11,111111111111
 #-------------------------------
 [093]   # Tenerife
 Name = Tenerife
 Outdoor = true
 ShowArea = true
+BattleBack = beach
 #-------------------------------
 [094]   # Ruta 10
 Name = Ruta 10
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,2,18
 BattleBack = selva
+MapSize = 2,11
 #-------------------------------
 [095]   # Ruta 11
 Name = Ruta 11
 Outdoor = true
 ShowArea = true
+MapPosition = 0,4,9
 BattleBack = subidateide
+MapSize = 1,111111111
 #-------------------------------
 [097]   # Volcán Teide
 Name = Volcán Teide
 Outdoor = true
 ShowArea = true
+MapPosition = 0,2,17
 BattleBack = subidateide
+MapSize = 1,1
 Environment = Rock
 #-------------------------------
 [103]   # Isla Valera
@@ -268,17 +313,40 @@ Name = Bajo el Agua Cueva
 BattleBack = underwater
 Environment = Underwater
 #-------------------------------
+[113]   # Casa Jorge & Anamaria
+Name = Casa Jorge & Anamaria
+BattleBack = interiores
+#-------------------------------
 [114]   # Castillo Ejoje
+Name = Castillo Ejoje
 Outdoor = true
 ShowArea = true
+Weather = Blizzard,100
 #-------------------------------
-[115]   # Mazmorra Final
-Name = Mazmorra Final
+[115]   # Bosque Astral
+Name = Bosque Astral
 Outdoor = true
+ShowArea = true
+MapPosition = 0,16,12
+BattleBack = bosqueastral
+WildBattleBGM = WildBattle_Bosque_Astral
+#-------------------------------
+[116]   # Castillo Ejoje PS
+Name = Castillo Ejoje PS
+BattleBack = castillo_ejoje
+#-------------------------------
+[117]   # Castillo Ejoje P1
+Name = Castillo Ejoje P1
+BattleBack = castillo_ejoje
+#-------------------------------
+[118]   # Castillo Ejoje PB
+Name = Castillo Ejoje PB
+BattleBack = castillo_ejoje
 #-------------------------------
 [119]   # Cueva Mística
 Name = Cueva Mística
 ShowArea = true
+MapPosition = 0,19,5
 SnapEdges = true
 BattleBack = cave
 #-------------------------------
@@ -287,17 +355,36 @@ Name = Cima Pirineos
 Outdoor = true
 ShowArea = true
 Weather = Snow,100
+MapPosition = 0,19,4
 SnapEdges = true
 BattleBack = snow
 #-------------------------------
 [122]   # Bajo el agua
 Name = Bajo el agua
+MapPosition = 0,26,8
 BattleBack = underwater
+MapSize = 2,11
 Environment = Underwater
 #-------------------------------
 [123]   # Acceso Secreto Prisión
 Name = Acceso Secreto Prisión
 DiveMap = 109
+#-------------------------------
+[128]   # Habitaciones P1
+Name = Habitaciones P1
+BattleBack = hospital
+#-------------------------------
+[129]   # Hospital Arrixaca (P3)
+Name = Hospital Arrixaca (P3)
+BattleBack = hospital
+#-------------------------------
+[130]   # Despacho Emma
+Name = Despacho Emma
+BattleBack = hospital
+#-------------------------------
+[131]   # Habitaciones P2
+Name = Habitaciones P2
+BattleBack = hospital
 #-------------------------------
 [132]   # Prisión Valera
 Name = Prisión Valera
@@ -311,7 +398,9 @@ BattleBack = mew
 Name = Ruta 13
 Outdoor = true
 ShowArea = true
+MapPosition = 0,13,7
 BattleBack = ruta13
+MapSize = 7,1111111
 #-------------------------------
 [136]   # Helgestival
 Name = Helgestival
@@ -323,6 +412,7 @@ Name = Getxo
 Outdoor = true
 ShowArea = true
 Bicycle = true
+BattleBack = islapistolas
 #-------------------------------
 [139]   # Ruta 12
 Name = Ruta 12
@@ -330,10 +420,13 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Rain,100
+MapPosition = 0,12,8
 BattleBack = ruta7
+MapSize = 2,10101011
 #-------------------------------
 [141]   # Interior Casona
-Name = Interior Casona
+Name = Casona
+MapPosition = 0,13,8
 DarkMap = true
 BattleBack = casona
 #-------------------------------
@@ -355,13 +448,15 @@ Name = Habitación Quique
 BattleBack = vivero
 #-------------------------------
 [150]   # Ruta 14
-Name = Ruta 12
+Name = Ruta 14
 Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Snow,100
+MapPosition = 0,20,2
 SnapEdges = true
 BattleBack = snow
+MapSize = 2,11
 #-------------------------------
 [152]   # Interiores Prisión Valera
 Name = Interiores Prisión Valera
@@ -371,27 +466,59 @@ BattleBack = casona
 Name = Entrada Prisión Valera
 BattleBack = casona
 #-------------------------------
-[154]   # Mazmorra Final
-Name = Mazmorra Final
+[154]   # Bosque Astral
+Name = Bosque Astral
 Outdoor = true
+ShowArea = true
+MapPosition = 0,16,12
+BattleBack = bosqueastral
 #-------------------------------
-[155]   # Mazmorra Final
-Name = Mazmorra Final
+[155]   # Bosque Astral
+Name = Bosque Astral
 Outdoor = true
+ShowArea = true
+MapPosition = 0,16,12
+BattleBack = bosqueastral
 #-------------------------------
-[156]   # Mazmorra Final
-Name = Mazmorra Final
-Outdoor = true
+[157]   # Cueva Astral
+Name = Cueva Astral
+ShowArea = true
+MapPosition = 0,15,12
+BattleBack = cuevafinal
+#-------------------------------
+[158]   # Cueva Astral
+Name = Cueva Astral
+ShowArea = true
+MapPosition = 0,15,12
+SnapEdges = true
+BattleBack = cuevafinal
+#-------------------------------
+[159]   # Gredos - 2021
+Name = Gredos - 2021
+ShowArea = true
+#-------------------------------
+[160]   # Festival Cortos - 2020
+Name = Festival Cortos - 2020
+ShowArea = true
 #-------------------------------
 [166]   # Dublín
 Name = Dublín
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,4,7
+BattleBack = city
+MapSize = 1,11
 #-------------------------------
 [167]   # Oslo
 Name = Oslo
+Outdoor = true
+ShowArea = true
 BattleBack = snow
+#-------------------------------
+[171]   # Interior Portal Gredos
+Name = Interior Portal Gredos
+BattleBack = distortion
 #-------------------------------
 [173]   # HG Primera Edición
 Name = HG Primera Edición
@@ -414,3 +541,67 @@ Name = Puerto provisional
 Outdoor = true
 ShowArea = true
 BattleBack = rutapradera
+#-------------------------------
+[183]   # HolayOle
+Name = HolayOle
+BattleBack = nebrija
+#-------------------------------
+[184]   # Despacho row
+Name = Despacho row
+BattleBack = nebrija
+#-------------------------------
+[186]   # Sauna Sala 2
+Name = Sauna Sala 2
+BattleBack = sauna
+#-------------------------------
+[187]   # Sauna Sala 1
+Name = Sauna Sala 1
+BattleBack = sauna
+#-------------------------------
+[188]   # Sauna Sala 3
+Name = Sauna Sala 3
+BattleBack = sauna
+#-------------------------------
+[190]   # Teatro Evolución
+Name = Teatro Evolución
+BattleBack = teatro
+#-------------------------------
+[193]   # Interior Portal Festival
+Name = Interior Portal Murcia
+BattleBack = distortion
+#-------------------------------
+[194]   # Invernadero Safari
+Name = Invernadero Safari
+BattleBack = vivero
+#-------------------------------
+[196]   # Isla Desafío
+Name = Isla Desafío
+Outdoor = true
+ShowArea = true
+BattleBack = islapistolas
+#-------------------------------
+[199]   # Campeonato Tontaria
+Name = Campeonato
+BattleBack = campeonato
+#-------------------------------
+[200]   # Isla Pistolas
+Name = Isla Pistolas
+Outdoor = true
+ShowArea = true
+BattleBack = islapistolas
+#-------------------------------
+[201]   # Isla Pistolas
+Outdoor = true
+#-------------------------------
+[202]   # Pistolas
+Name = Pistolas
+BattleBack = insidepistolas
+#-------------------------------
+[203]   # Laboratorio Jp
+Name = Laboratorio Jp
+BattleBack = laboratorio
+#-------------------------------
+[204]   # Profundidades Bosque Astral
+Name = Profundidades Bosque Astral
+Outdoor = true
+BattleBack = bosqueastral

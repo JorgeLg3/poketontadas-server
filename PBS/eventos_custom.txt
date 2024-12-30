@@ -12,12 +12,16 @@ Pokemon = BAGON
 Pokemon = RIOLU
 Pokemon = CHARCADET
 Pokemon = EEVEE
+Pokémon = ELEKID
 #-------------------------------
 [Enfrentamientos salvajes]
 Pokemon = SUNFLORA
 Pokemon = CLOYSTER
 Pokemon = LANTURN
 Pokemon = MANTINE
+#-------------------------------
+[Enfrentamientos Pistolas]
+Pokemon = OCTILLERY
 #-------------------------------
 [Legendarios PostGame]
 Pokemon = DIALGA
@@ -29,7 +33,7 @@ Pokemon = MEW
 Pokemon = HO-OH
 Pokemon = LUGIA
 Pokemon = GROUDON
-Pokemon = KYORGE
+Pokemon = KYOGRE
 Pokemon = RAYQUAZA
 Pokemon = CELEBI
 Pokemon = GIRATINA

@@ -14,6 +14,7 @@ Land,20
     30,ZIGZAGOON,3,5
     20,CUBONE,4,6
     20,MUDBRAY,4,6
+	20,STARLY,4,6
 OldRod
     70,MAGIKARP,7,10
     30,MAGIKARP,9,15
@@ -24,7 +25,7 @@ Land,20
     25,ROSELIA,6,9
     20,MACHOP,6,9
     20,MANKEY,6,9
-    10,RIOLU,6,9
+    10,PIKACHU,6,9
 OldRod
     70,MAGIKARP,7,10
     30,MAGIKARP,9,15
@@ -59,6 +60,7 @@ Land,20
     20,NIDORANfE,15,18
     20,NIDORANmA,15,18
     20,PALPITOAD,15,18
+	10,STARAVIA,15,18
 OldRod
     50,MAGIKARP,7,10
     30,GOLDEEN,7,10
@@ -66,113 +68,107 @@ OldRod
 #-------------------------------
 [045] # Ruta 07
 Land,20
-    20,ELECTRIKE,15,18
-    20,HOPPIP,15,18
-    20,TOXEL,15,18
-    20,WINGULL,15,18
-    10,SKIPLOOM,15,18
+    20,ELECTRIKE,17,20
+    20,HOPPIP,17,20
+    20,TOXEL,17,20
+    20,WINGULL,17,20
+    10,SKIPLOOM,16,20
 OldRod
-    50,MAGIKARP,7,10
+    50,MAGIKARP,10,15
 #-------------------------------
 [046] # Bosque Espora
 Land,20
     20,ABRA,19
-    20,KIRLIA,15,18
-    20,ODDISH,15,18
-    20,PARAS,15,18
-    20,SHROOMISH,15,18
-    5,GLOOM,15,18
-    5,PARASECT,15,18
-#-------------------------------
-[049] # Pirineos Exteriores
-Land,20
-    40,GOLETT,7,10
-    40,SNOVER,7,10
-    10,GOLURK,7,10
+    20,KIRLIA,18,21
+    20,ODDISH,18,20
+    20,PARAS,18,20
+    20,SHROOMISH,18,21
+    5,GLOOM,18,21
+    5,PARASECT,18,21
 #-------------------------------
 [061] # Bosque Dorado
 Land,20
-    20,JOLTIK,15,18
+    20,JOLTIK,19,21
 #-------------------------------
-[062] # Prebosque
+[062] # Entrada Bosque Espora
 Land,20
     20,ABRA,19
-    20,KIRLIA,15,18
-    20,ODDISH,15,18
-    20,PARAS,15,18
-    20,SHROOMISH,15,18
-    5,GLOOM,15,18
-    5,PARASECT,15,18
+    20,KIRLIA,18,21
+    20,ODDISH,18,20
+    20,PARAS,18,20
+    20,SHROOMISH,18,21
+    5,GLOOM,18,21
+    5,PARASECT,18,21
 #-------------------------------
 [063] # Bosque Rojo
 Land,20
-    20,MORELULL,15,18
+    20,MORELULL,18,21
 #-------------------------------
 [075] # Ruta 08
 Land,20
-    20,FLETCHINDER,15,18
-    20,PIDGEOTTO,15,18
-    20,TAILLOW,15,18
-    20,WINGULL,15,18
-    10,SWELLOW,15,18
+    20,FLETCHINDER,20,23
+    20,PIDGEOTTO,20,23
+    20,TAILLOW,20,23
+    20,WINGULL,20,23
+    10,SWELLOW,20,23
 OldRod
-    50,MAGIKARP,7,10
-    30,KRABBY,7,10
-    20,CORPHISH,9,15
-    5,GYARADOS,9,15
+    50,MAGIKARP,15,20
+    30,KRABBY,15,20
+    20,CORPHISH,15,20
+    5,GYARADOS,15,20
 Water,5
-    50,WINGULL,7,10
-    30,TENTACOOL,7,10
-    20,PELIPPER,20,25
+    50,WINGULL,20,23
+    30,TENTACOOL,20,23
+    20,PELIPPER,20,23
 #-------------------------------
 [078] # Gorguel
 Water,5
-    50,WINGULL,7,10
-    30,TENTACOOL,7,10
-    20,PELIPPER,20,25
+    50,WINGULL,18,21
+    30,TENTACOOL,17,21
+    20,PELIPPER,20,23
 #-------------------------------
 [085] # Ruta Desierto
 Land,20
-    20,DRILBUR,15,18
-    20,SANDILE,15,18
-    20,SILICOBRA,15,18
-    20,TRAPINCH,15,18
-    10,MAROWAK,15,18
+    20,DRILBUR,22,26
+    20,SANDILE,22,26
+    20,SILICOBRA,22,26
+    20,TRAPINCH,22,26
+    10,MAROWAK,22,26
 OldRod
-    50,MAGIKARP,7,10
-    30,TYMPOLE,7,10
+    50,MAGIKARP,20,25
+    30,TYMPOLE,20,25
 Water,2
-    50,TYMPOLE,7,10
-    30,TENTACOOL,7,10
+    50,TYMPOLE,20,25
+    30,TENTACOOL,20,25
 #-------------------------------
 [088] # Ruta 09
 OldRod
-    50,MAGIKARP,7,10
-    30,KRABBY,7,10
-    20,CORPHISH,9,15
-    5,GYARADOS,9,15
+    50,MAGIKARP,15,20
+    30,KRABBY,15,20
+    20,CORPHISH,15,20
+    5,GYARADOS,15,20
 Water,5
-    50,STARYU,7,10
-    30,TENTACOOL,7,10
-    20,HORSEA,20,25
-    5,SEADRA,20,25
-    5,TENTACRUEL,20,25
+    50,STARYU,25,28
+    30,TENTACOOL,25,28
+    20,HORSEA,25,28
+    5,SEADRA,25,28
+    5,TENTACRUEL,25,28
 #-------------------------------
 [094] # Ruta 10
 Land,20
-    20,EXEGGCUTE,15,18
-    20,FARFETCHD,15,18
-    20,PANCHAM,15,18
-    20,PIKIPEK,15,18
-    20,TROPIUS,15,18
-    10,TRUMBEAK,15,18
+    20,EXEGGCUTE,28,31
+    20,FARFETCHD,28,31
+    20,PANCHAM,28,31
+    20,PIKIPEK,28,31
+    20,TROPIUS,28,31
+    10,TRUMBEAK,28,31
 OldRod
-    50,GOLDEEN,7,10
-    50,MAGIKARP,7,10
+    50,GOLDEEN,20,28
+    50,MAGIKARP,20,28
 #-------------------------------
 [095] # Ruta 11
 Land,20
-    10,KANGASKHAN,15,18
+    10,RHYHORN,15,18
     10,PERSIAN,15,18
     30,MANKEY,15,18
     10,PRIMEAPE,15,18
@@ -191,105 +187,248 @@ Water,5
 #-------------------------------
 [097] # Volcán Teide
 Land,20
-    20,LITLEO,15,18
-	20,MAGBY,15,18
-    5,MAGMAR,15,18
-    20,PONYTA,15,18
-    20,SLUGMA,15,18
-    10,TORKOAL,15,18
+    20,LITLEO,28,31
+	20,MAGBY,28,31
+    5,MAGMAR,28,31
+    20,PONYTA,28,31
+    20,SLUGMA,28,31
+    10,TORKOAL,28,31
 OldRod
-    50,MAGIKARP,7,10
+    50,MAGIKARP,20,28
 #-------------------------------
 [166] # Dublín
 Land,20
-    20,ROCKRUFF,15,18
-    20,SPOINK,15,18
-	20,ZIGZAGOON,15,18
+    20,ROCKRUFF,30,34
+    20,SPOINK,30,32
+	20,ZIGZAGOON,30,32
 Water,5
-    70,TENTACOOL,7,10
-    30,WAILMER,7,10
+    70,TENTACOOL,30,34
+    30,WAILMER,30,34
 OldRod
-    50,MAGIKARP,7,10
-#-------------------------------
-[119] # Pirineos Interiores
-Cave,0
-    40,ARON,1,10
-    40,SWINUB,1,10
-    10,LAIRON,1,10
-    10,PILOSWINE,1,10
-#-------------------------------
-[121] # Salida Pirineos
-Land,20
-    40,GOLETT,7,10
-    40,SNOVER,7,10
-    10,ABOMASNOW,7,10
-    10,GOLURK,7,10
-#-------------------------------
-[122] # Bajo el agua
-Land,20
-    20,BARBOACH,1,10
-	20,SHELLDER,1,10
-	20,CHINCHOU,1,10
-    20,CLAMPERL,1,10
-#-------------------------------
-[134] # Ruta 13
-Land,20
-    20,SEEDOT,7,10
-    20,STANTLER,7,10
-    10,NUZLEAF,7,10
-    10,PIKACHU,7,10
-Water,5
-    40,MARILL,7,10
-    40,POLIWAG,7,10
-    10,AZUMARILL,7,10
-    10,POLIWHIRL,7,10
-OldRod
-    50,CORPHISH,7,10
-    50,MAGIKARP,7,10
+    50,MAGIKARP,20,25
 #-------------------------------
 [139] # Ruta 12
 Land,20
-    20,LINOONE,7,10
-    20,WOOPER,7,10
-    10,ABSOL,7,10
-    10,KECLEON,7,10
-    10,QUAGSIRE,7,10
+    20,LINOONE,32,36
+    20,WOOPER,32,36
+    10,ABSOL,32,36
+    10,KECLEON,32,36
+    10,QUAGSIRE,32,36
 Water,5
-    40,MARILL,7,10
-    40,POLIWAG,7,10
-    10,AZUMARILL,7,10
-    10,POLIWHIRL,7,10
+    40,MARILL,32,36
+    40,POLIWAG,32,36
+    10,AZUMARILL,32,36
+    10,POLIWHIRL,32,36
 OldRod
-    50,GOLDEEN,7,10
-    50,MAGIKARP,7,10
+    50,GOLDEEN,25,30
+    50,MAGIKARP,25,30
 #-------------------------------
 [141] # Interior Casona
 Cave,5
-    40,GASTLY,7,10
-	10,HAUNTER,7,10
-	40,LITWICK,7,10
-	10,LAMPENT,7,10
+    40,GASTLY,32,36
+	10,HAUNTER,32,36
+	40,LITWICK,32,36
+	10,LAMPENT,32,36
+#-------------------------------
+[134] # Ruta 13
+Land,20
+    20,SEEDOT,34,38
+    20,STANTLER,34,38
+    10,NUZLEAF,34,38
+    10,PIKACHU,34,38
+Water,5
+    40,MARILL,34,38
+    40,POLIWAG,34,38
+    10,AZUMARILL,34,38
+    10,POLIWHIRL,34,38
+OldRod
+    50,CORPHISH,25,30
+    50,MAGIKARP,25,30
+#-------------------------------
+[122] # Bajo el agua
+Land,20
+    20,BARBOACH,30,40
+	20,SHELLDER,30,40
+	20,CHINCHOU,30,40
+    20,CLAMPERL,30,40
+#-------------------------------
+[049] # Pirineos Exteriores
+Land,20
+    40,GOLETT,36,42
+    40,SNOVER,36,42
+    10,GOLURK,36,42
+#-------------------------------
+[119] # Pirineos Interiores
+Cave,0
+    40,ARON,36,42
+    40,SWINUB,36,42
+    10,LAIRON,36,42
+    10,PILOSWINE,36,42
+#-------------------------------
+[121] # Salida Pirineos
+Land,20
+    40,GOLETT,36,40
+    40,SNOVER,36,40
+    10,ABOMASNOW,36,40
+    10,GOLURK,36,40
 #-------------------------------
 [150] # Ruta 14
 Land,20
-    35,SNORUNT,7,10
-    35,SNOVER,7,10
-    35,VANILLITE,7,10
-    10,ABOMASNOW,7,10
-    10,VANILLISH,7,10
+    35,SNORUNT,40,46
+    35,SNOVER,40,46
+    35,VANILLITE,40,46
+    10,ABOMASNOW,40,46
+    10,VANILLISH,40,46
 #-------------------------------
 [116] # Interior Castillo Jorge
 Cave,0
-    30,VAROOM,7,10
-    10,REVAVROOM,7,10
-    30,KLINK,7,10
-    10,KLANG,7,10
-    20,PAWNIARD,7,10
+    30,VAROOM,44,50
+    10,REVAVROOM,44,50
+    30,KLINK,44,50
+    10,KLANG,44,50
+    20,PAWNIARD,44,50
 #-------------------------------
 [118] # Interior Castillo Jorge PS
 Cave,0
-    30,VAROOM,7,10
-    10,REVAVROOM,7,10
-    30,KLINK,7,10
-    10,KLANG,7,10
-    20,ZORUA,7,10
+    30,VAROOM,44,50
+    10,REVAVROOM,44,50
+    30,KLINK,44,50
+    10,KLANG,44,50
+    20,ZORUA,44,50
+#-------------------------------
+[115] # Bosque Astral 1 Zona
+Land,20
+    20,MAMOSWINE,48,52
+	20,ABOMASNOW,48,52
+	20,WYRDEER,48,52
+	20,CLAYDOL,48,52
+	20,REUNICLUS,48,52
+#-------------------------------
+[154] # Bosque Astral 2 Zona
+Land,20
+    20,MAMOSWINE,48,52
+	20,ABOMASNOW,48,52
+	20,WYRDEER,48,52
+	20,CLAYDOL,48,52
+	20,REUNICLUS,48,52
+#-------------------------------
+[155] # Bosque Astral 3 Zona 
+Land,20
+    20,MAMOSWINE,48,52
+	20,ABOMASNOW,48,52
+	20,WYRDEER,48,52
+	20,CLAYDOL,48,52
+	20,REUNICLUS,48,52
+#-------------------------------
+[157] # Cueva Astral 1
+Cave,0
+    20,AGGRON,50,54
+    20,STEELIX,50,54
+    20,MAGNEZONE,50,54
+#-------------------------------
+[158] # Cueva Astral 2
+Cave,0
+    20,AGGRON,50,54
+    20,STEELIX,50,54
+    20,MAGNEZONE,50,54
+#-------------------------------
+[194] # Invernadero Safari
+Land,20
+    10,PKTS_TYRANTRUM,10,20
+    10,PKTS_CHANSEY,10,20
+    10,PKTS_CABRILLA,10,20
+    10,PKTS_CONKELDURR,10,20
+    10,MORELULL,10,20
+	10,PKTS_QUAGSIRE,10,20
+    10,PKTS_MEDICHAM,10,20
+    10,PKTS_TROMPHAN,10,20
+    10,PKTS_GARY,10,20
+    10,PKTS_FLORFLOWER,10,20
+#-------------------------------
+[194,1] # Invernadero Safari
+Land,20
+    10,PKTS_TYRANTRUM,10,20
+    10,PKTS_CHANSEY,10,20
+    10,PKTS_CABRILLA,10,20
+    10,PKTS_CONKELDURR,10,20
+    10,MORELULL,10,20
+	10,PKTS_QUAGSIRE,10,20
+    10,PKTS_MEDICHAM,10,20
+    10,PKTS_TROMPHAN,10,20
+    10,PKTS_GARY,10,20
+    10,PKTS_FLORFLOWER,10,20
+Water, 10
+	10,PKTS_SHARPEDO,10,20
+#-------------------------------
+[194,2] # Invernadero Safari
+Land,20
+    10,PKTS_TYRANTRUM,10,20
+    10,PKTS_CHANSEY,10,20
+    10,PKTS_CABRILLA,10,20
+    10,PKTS_CONKELDURR,10,20
+    10,MORELULL,10,20
+	10,PKTS_QUAGSIRE,10,20
+    10,PKTS_MEDICHAM,10,20
+    10,PKTS_TROMPHAN,10,20
+    10,PKTS_GARY,10,20
+    10,PKTS_FLORFLOWER,10,20
+	10,PKTS_DELPHOX,10,20
+Water, 10
+	10,PKTS_SHARPEDO,10,20
+#-------------------------------
+[194,3] # Invernadero Safari
+Land,20
+    10,PKTS_TYRANTRUM,10,20
+    10,PKTS_CHANSEY,10,20
+    10,PKTS_CABRILLA,10,20
+    10,PKTS_CONKELDURR,10,20
+    10,MORELULL,10,20
+	10,PKTS_QUAGSIRE,10,20
+    10,PKTS_MEDICHAM,10,20
+    10,PKTS_TROMPHAN,10,20
+    10,PKTS_GARY,10,20
+    10,PKTS_FLORFLOWER,10,20
+	10,PKTS_DELPHOX,10,20
+	10,PKTS_HOLAYOLE1,10,20
+	10,PKTS_HOLAYOLE2,10,20
+Water, 10
+	10,PKTS_SHARPEDO,10,20
+#-------------------------------
+[194,4] # Invernadero Safari
+Land,20
+    10,PKTS_TYRANTRUM,10,20
+    10,PKTS_CHANSEY,10,20
+    10,PKTS_CABRILLA,10,20
+    10,PKTS_CONKELDURR,10,20
+    10,MORELULL,10,20
+	10,PKTS_QUAGSIRE,10,20
+    10,PKTS_MEDICHAM,10,20
+    10,PKTS_TROMPHAN,10,20
+    10,PKTS_GARY,10,20
+    10,PKTS_FLORFLOWER,10,20
+	10,PKTS_DELPHOX,10,20
+	10,PKTS_HOLAYOLE1,10,20
+	10,PKTS_HOLAYOLE2,10,20
+	10,HONEDGE,10,20
+Water, 10
+	10,PKTS_SHARPEDO,10,20
+#-------------------------------
+[194,5] # Invernadero Safari
+Land,20
+    10,PKTS_TYRANTRUM,10,20
+    10,PKTS_CHANSEY,10,20
+    10,PKTS_CABRILLA,10,20
+    10,PKTS_CONKELDURR,10,20
+    10,MORELULL,10,20
+	10,PKTS_QUAGSIRE,10,20
+    10,PKTS_MEDICHAM,10,20
+    10,PKTS_TROMPHAN,10,20
+    10,PKTS_GARY,10,20
+    10,PKTS_FLORFLOWER,10,20
+	10,PKTS_DELPHOX,10,20
+	10,PKTS_HOLAYOLE1,10,20
+	10,PKTS_HOLAYOLE2,10,20
+	10,HONEDGE,10,20
+	10,PKTS_PHANPY,10,20
+Water, 10
+	10,PKTS_SHARPEDO,10,20

@@ -3009,7 +3009,7 @@ Price = 350
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Dulce típico de Pueblo Lavacalda que cura todos los problemas de estado de un Pokémon.
+Description = Dulce típico que cura todos los problemas de estado de un Pokémon.
 #-------------------------------
 [OLDGATEAU]
 Name = Barrita Plus
@@ -3576,6 +3576,7 @@ Name = Chapa Dorada
 NamePlural = Chapas doradas
 Pocket = 2
 Price = 250
+BPPrice = 5
 FieldUse = OnPokemon
 Flags = Fling_20
 Description = Chapa que aumenta los IVs al máximo de un Pokémon.
@@ -3587,7 +3588,7 @@ Pocket = 2
 Price = 250
 FieldUse = OnPokemon
 Flags = Fling_20
-Description = Chapa que aumenta en 10 IVs los PS de un Pokémon.
+Description = Chapa que aumenta al máximo IVs los PS de un Pokémon.
 #-------------------------------
 [CHAPAATK]
 Name = Chapa Músculo
@@ -3596,7 +3597,7 @@ Pocket = 2
 Price = 250
 FieldUse = OnPokemon
 Flags = Fling_20
-Description = Chapa que aumenta en 10 IVs el Ataque de un Pokémon.
+Description = Chapa que aumenta al máximo el Ataque de un Pokémon.
 #-------------------------------
 [CHAPADEF]
 Name = Chapa Aguante
@@ -3605,7 +3606,7 @@ Pocket = 2
 Price = 250
 FieldUse = OnPokemon
 Flags = Fling_20
-Description = Chapa que aumenta en 10 IVs la Defensa de un Pokémon.
+Description = Chapa que aumenta al máximo la Defensa de un Pokémon.
 #-------------------------------
 [CHAPAATKESP]
 Name = Chapa Intelecto
@@ -3614,7 +3615,7 @@ Pocket = 2
 Price = 250
 FieldUse = OnPokemon
 Flags = Fling_20
-Description = Chapa que aumenta en 10 IVs el At. Esp. de un Pokémon.
+Description = Chapa que aumenta al máximo el At. Esp. de un Pokémon.
 #-------------------------------
 [CHAPADEFESP]
 Name = Chapa Mente
@@ -3623,7 +3624,7 @@ Pocket = 2
 Price = 250
 FieldUse = OnPokemon
 Flags = Fling_20
-Description = Chapa que aumenta en 10 IVs la Def. Esp. de un Pokémon.
+Description = Chapa que aumenta al máximo la Def. Esp. de un Pokémon.
 #-------------------------------
 [CHAPAVEL]
 Name = Chapa Ímpetu
@@ -3632,14 +3633,14 @@ Pocket = 2
 Price = 250
 FieldUse = OnPokemon
 Flags = Fling_20
-Description = Chapa que aumenta en 10 IVs la Velocidad de un Pokémon.
+Description = Chapa que aumenta al máximo la Velocidad de un Pokémon.
 #-------------------------------
 [ABILITYCAPSULE]
 Name = Cápsula Habilidad
 NamePlural = Cápsulas Habilidad
 Pocket = 2
 Price = 10000
-BPPrice = 50
+BPPrice = 5
 FieldUse = OnPokemon
 Description = Cápsula que les permite cambiar de habilidad a los Pokémon que poseen dos.
 #-------------------------------
@@ -3648,7 +3649,7 @@ Name = Parche Habilidad
 NamePlural = Parches Habilidad
 Pocket = 2
 Price = 10000
-BPPrice = 200
+BPPrice = 8
 FieldUse = OnPokemon
 Description = Parche que permite cambiar la habilidad normal de un Pokémon por la oculta.
 #-------------------------------
@@ -3684,6 +3685,7 @@ Name = Caramelo Exp. L
 NamePlural = Caramelos Exp. L
 Pocket = 2
 Price = 3000
+BPPrice = 1
 FieldUse = OnPokemon
 Flags = Fling_30
 Description = Caramelo energético que aumenta bastante los Puntos de Experiencia de un Pokémon.
@@ -3693,6 +3695,7 @@ Name = Caramelo Exp. XL
 NamePlural = Caramelos Exp. XL
 Pocket = 2
 Price = 10000
+BPPrice = 3
 FieldUse = OnPokemon
 Flags = Fling_30
 Description = Caramelo energético que aumenta mucho los Puntos de Experiencia de un Pokémon.
@@ -3712,6 +3715,7 @@ Name = Master Ball
 NamePlural = Master Balls
 Pocket = 3
 Price = 0
+BPPrice = 10
 BattleUse = OnFoe
 Flags = PokeBall
 Description = La Poké Ball definitiva. Atrapa a cualquier Pokémon salvaje y no falla nunca.
@@ -4049,8 +4053,8 @@ Price = 1500
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_10
-Move = WORKUP
-Description = Movimiento que aumenta el Ataque y el Ataque Especial de quien lo usa.
+Move = KNOCKOFF
+Description = Movimiento que golpea al enemigo y elimina su objeto equipado.
 #-------------------------------
 [TM11]
 Name = MT11
@@ -4236,8 +4240,8 @@ Price = 3000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_65
-Move = LOWSWEEP
-Description = Un veloz ataque a los pies que reduce la Velocidad del objetivo.
+Move = LOWKICK
+Description = Un veloz ataque a los pies que aumenta su daño conforme más pesado es el objetivo.
 #-------------------------------
 [TM28]
 Name = MT28
@@ -6114,13 +6118,13 @@ Flags = KeyItem
 Description = Moto algo anitcuada pero que permite desplazarte más rápido que con las deportivas.
 #-------------------------------
 [OLDROD]
-Name = Caña Vieja
-NamePlural = Cañas Viejas
+Name = Caña de Pescar
+NamePlural = Cañas de Pescar
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Una caña de pescar bastante usada y desgastada. Pesca Pokémon salvajes en todo tipo de aguas.
+Description = Una caña de pescar de gran calidad. Pesca Pokémon salvajes en todo tipo de aguas.
 #-------------------------------
 [GOODROD]
 Name = Caña Buena
@@ -6180,7 +6184,7 @@ Description = Un mapa que puede consultarse en cualquier momento y que te indica
 Name = Cuerda Huida
 NamePlural = Cuerdas Huida
 Pocket = 8
-Price = 0
+Price = 500
 FieldUse = Direct
 Flags = KeyItem
 Description = Cuerda larga y resistente que sirve para huir de cuevas y sitios cerrados en general.
@@ -7062,8 +7066,8 @@ Flags = KeyItem
 Description = Equipo de buceo especializado que permite bucear a grandes profundidades.
 #-------------------------------
 [POCION_BRILLANTE]
-Name = Poción Brillante
-NamePlural = Pociones Brillantes
+Name = Elixir Brillante
+NamePlural = Elixires Brillantes
 Pocket = 1
 Price = 2000
 FieldUse = Direct
@@ -7096,3 +7100,21 @@ Price = 0
 FieldUse = Direct
 Flags = KeyItem
 Description = Ticket que te permite viajar a Isla Valera en el puerto de Barcelona.
+#-------------------------------
+[CARNETPROFESOR]
+Name = Carnet Profesor
+NamePlural = Carnet Profesor
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Carnet europeo de profesorado que te habilita como el profesor Navarro Renalías.
+#-------------------------------
+[SHINYCAPSULE]
+Name = Cápsula Brillante
+NamePlural = Cápsulas Brillantes
+Pocket = 2
+Price = 100000
+BPPrice = 20
+FieldUse = OnPokemon
+Description = Cápsula que permite transformar a un Pokémon en su versión shiny si no lo es.
