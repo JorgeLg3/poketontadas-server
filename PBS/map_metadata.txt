@@ -31,6 +31,7 @@ Name = VillaTontadas
 Outdoor = true
 ShowArea = true
 Bicycle = true
+BattleBack = islapistolas
 #-------------------------------
 [007]   # Ruta 02
 Name = Ruta 02
@@ -123,7 +124,7 @@ Name = Valencia
 Outdoor = true
 ShowArea = true
 Bicycle = true
-BattleBack = beach
+BattleBack = camino
 #-------------------------------
 [045]   # Ruta 07
 Name = Ruta 07
@@ -591,6 +592,7 @@ ShowArea = true
 BattleBack = islapistolas
 #-------------------------------
 [201]   # Isla Pistolas
+Name = Isla Pistolas
 Outdoor = true
 #-------------------------------
 [202]   # Pistolas

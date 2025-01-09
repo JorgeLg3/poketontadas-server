@@ -65,15 +65,18 @@ Pokemon = ODDISH,2
 LoseText = ¡Qué gran combate!
 Pokemon = METAPOD,4
 	Moves = HARDEN
+	Item = FOCUSSASH
 #-------------------------------
 [PROFESOR_NEBRIJA_DA,Marian]
 LoseText = ¡Qué gran combate!
 Pokemon = SPINARAK,3
 	Moves = TOXICTHREAD
+	Item = FOCUSSASH
 #-------------------------------
 [PKTS_JP,Jp]
 LoseText = ¡Qué gran combate!
 Pokemon = PKTS_PHANPY,3
+	Item = FOCUSSASH
 #-------------------------------
 [NEBRIJERO,Carpa]
 LoseText = Emmm, ¿que ha pasado? No me he enterado.
@@ -121,8 +124,8 @@ Pokemon = PIKACHU,9
 #-------------------------------
 [CIENTIFICO,Alberto]
 LoseText = Después de esto seguro que voy al paro...
-Pokemon = SHINX,9
-Pokemon = BLITZLE,9
+Pokemon = SHINX,8
+Pokemon = ELEKID,9
 #-------------------------------
 [PKTS_FER,Fernando]
 Pokemon = PIKACHU,10
@@ -143,11 +146,11 @@ Pokemon = ROSELIA,10
 #-------------------------------
 [ENFERMERO,Alberto]
 LoseText = ¡Qué sepas que solo me has ganado porque estaba ya muy cansado!
-Pokemon = LICKITUNG,12
+Pokemon = SKITTY,12
 #-------------------------------
 [ENFERMERO,Juan]
 LoseText = ¡Ay, no soporto la sangre! Quizás debería cambiar de profesión...
-Pokemon = HAPPINY,13
+Pokemon = AZURILL,13
 #-------------------------------
 [ENFERMERA,Aurora]
 LoseText = Vale, vale! Te libras del pinchazo por esta vez.
@@ -268,6 +271,8 @@ Pokemon = VAROOM,20
 #-------------------------------
 [PKTS_BOTIA,Botia]
 LoseText = ¡Qué gran combate!
+Pokemon = VAROOM,20
+Pokemon = KLANG, 21
 Pokemon = PKTS_CABRILLA,23
     Moves = GEARGRIND,FLASHCANNON,SHIFTGEAR,IRONTAIL
 #-------------------------------
@@ -320,7 +325,7 @@ Pokemon = SKITTY,22
 #-------------------------------
 [CUNADO,Joaquín]
 LoseText = ¡No compres cava catalán, hay que hacer boicot a Cataluña!
-Pokemon = DUNSPARCE,24
+Pokemon = BIBAREL,24
 #-------------------------------
 [GUIRI,James]
 LoseText = ¿He perdido? ¡Bah! Desde balcones más altos he caído.
@@ -404,7 +409,7 @@ Pokemon = REVAVROOM,26
 [ESTUDIANTE_M,Jordi]
 LoseText = ¡Puede que no sirva para los combates, ¡pero me convertiré en el as de las parillas!
 Pokemon = KOFFING,24
-Pokemon = GRIMER,25
+Pokemon = TENTACOOL,25
 #-------------------------------
 [ESTUDIANTE_F,Mireia]
 LoseText = Todo el mundo sabe que Descartes no entra ni del palo, al igual que los Reinos Cristianos en la PAU.
@@ -515,7 +520,7 @@ Pokemon = SEAKING,33
 #-------------------------------
 [CAYETANO,Borja]
 LoseText = ¿Sabrías indicarme donde está el Massimo Dutti más  cercano?
-Pokemon = STANTLER,34
+Pokemon = SHIFTRY,34
 #-------------------------------
 [GUIRI_COUPLE,Harry & Grace]
 LoseText = ¡Has dejado a nuestros Pokémon más despellejados que nuestra skin!
@@ -606,12 +611,12 @@ Pokemon = LYCANROC,37
 #-------------------------------
 [CAZABICHOS_M,Pedro]
 LoseText = Debería entrenar a otro tipo de Pokémon que no sea el bicho...
-Pokemon = DUSTOX, 35
+Pokemon = BUTTERFREE, 35
 Pokemon = PARASECT, 36
 #-------------------------------
 [PIROMANO,Miguel]
 LoseText = Este combate me ha sentado como una jarra de agua fría...
-Pokemon = MAGCARGO, 37
+Pokemon = NINETALES, 37
 #-------------------------------
 [MOCHILERA,Eduarda]
 LoseText = ¡Disfruta de lo que hay más allá de esta cueva!
@@ -661,7 +666,7 @@ Pokemon = KLINKLANG, 40
 #-------------------------------
 [JOVEN,Miguel]
 LoseText = ¡Eso no ha vale!
-Pokemon = KECLEON, 39
+Pokemon = DARTRIX, 39
 Pokemon = ABSOL, 41
 #-------------------------------
 [POLICIA,Óscar]
@@ -856,7 +861,7 @@ Pokemon = MAMOSWINE, 48
 #-------------------------------
 [CHICA_SAUNA,Greta]
 LoseText = ¿Crees que si me baño con un huevo se cocerá?º
-Pokemon = PYROAR, 50	
+Pokemon = TORKOAL, 50	
 #-------------------------------
 [CHICO_SAUNA,Markus]
 LoseText = ¡He perdido por culpa del vapor! No me permite pensar con claridad...
@@ -1225,7 +1230,7 @@ LoseText = El doctorado no me deja tiempo ni para entrenar a mis Pokémon...
 Pokemon = GARBODOR,75
 Pokemon = WEEZING,75
 Pokemon = NIDOKING,75
-Pokemon = VENOMOTH,75
+Pokemon = TENTACRUEL,75
 Pokemon = PKTS_QUAGSIRE,75
 #-------------------------------
 [PKTS_LUCIA,Lucia,50]
@@ -1282,8 +1287,8 @@ LoseText = En este caso he perdido porque yo he querido.
 Pokemon = PKTS_HOLAYOLE1, 75
 Pokemon = PKTS_HOLAYOLE2,75
 Pokemon = NINETALES, 75
-Pokemon = FROSLASS, 75
 	Form = 1
+Pokemon = FROSLASS, 75
 Pokemon = GLACEON,75
 #-------------------------------
 [PKTS_JORGE,Jorge,50]

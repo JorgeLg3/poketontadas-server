@@ -11,7 +11,7 @@ Land,20
 [007] # Ruta 02
 Land,20
     30,FLETCHLING,3,5
-    30,ZIGZAGOON,3,5
+    30,RATTATA,3,5
     20,CUBONE,4,6
     20,MUDBRAY,4,6
 	20,STARLY,4,6
@@ -32,11 +32,12 @@ OldRod
 #-------------------------------
 [015] # Ruta 04
 Land,20
-    20,BIDOOF,9,11
+    20,BELLSPROUT,9,11
     20,GEODUDE,9,11
     20,MARILL,9,11
     20,ODDISH,7,10
     20,TYMPOLE,9,11
+	20,SHINX,9,11
 OldRod
     50,MAGIKARP,7,10
     30,GOLDEEN,7,10
@@ -45,10 +46,11 @@ OldRod
 [042] # Ruta 05
 Land,20
     30,GROWLITHE,11,14
-    20,FLETCHLING,10,12
+    20,EKANS,10,12
     20,GRAVELER,11,14
     20,VULPIX,11,14
     10,FLETCHINDER,13,16
+	10,TAUROS,13,16
 OldRod
     70,MAGIKARP,7,10
     30,STARMIE,9,15
@@ -59,12 +61,27 @@ Land,20
     20,MAREEP,15,18
     20,NIDORANfE,15,18
     20,NIDORANmA,15,18
-    20,PALPITOAD,15,18
+    20,SLOWPOKE,15,18
 	10,STARAVIA,15,18
+	10,LECHONK,15,18
 OldRod
     50,MAGIKARP,7,10
     30,GOLDEEN,7,10
     20,FEEBAS,9,15
+#-------------------------------
+[044] # Valencia
+Land,20
+    20,KOFFING,16,19
+    20,POOCHYENA,16,19
+    20,WINGULL,16,19
+	20,KRICKETOT,16,19
+	20,PIDOVE,16,19
+OldRod
+    50,MAGIKARP,10,15
+Water,5
+    50,WINGULL,20,23
+    30,TENTACOOL,20,23
+    20,PELIPPER,20,23
 #-------------------------------
 [045] # Ruta 07
 Land,20
@@ -72,7 +89,7 @@ Land,20
     20,HOPPIP,17,20
     20,TOXEL,17,20
     20,WINGULL,17,20
-    10,SKIPLOOM,16,20
+    20,TRUBBISH,16,20
 OldRod
     50,MAGIKARP,10,15
 #-------------------------------
@@ -88,7 +105,7 @@ Land,20
 #-------------------------------
 [061] # Bosque Dorado
 Land,20
-    20,JOLTIK,19,21
+    20,SPINARAK,19,21
 #-------------------------------
 [062] # Entrada Bosque Espora
 Land,20
@@ -109,7 +126,7 @@ Land,20
     20,FLETCHINDER,20,23
     20,PIDGEOTTO,20,23
     20,TAILLOW,20,23
-    20,WINGULL,20,23
+    20,BUIZEL,20,23
     10,SWELLOW,20,23
 OldRod
     50,MAGIKARP,15,20
@@ -168,11 +185,11 @@ OldRod
 #-------------------------------
 [095] # Ruta 11
 Land,20
-    10,RHYHORN,15,18
-    10,PERSIAN,15,18
-    30,MANKEY,15,18
-    10,PRIMEAPE,15,18
-    30,MEOWTH,15,18
+    20,RHYHORN,28,32
+    20,SOLROCK,28,32
+    20,LUNATONE,28,32
+    20,MEOWTH,28,32
+	20,CUFANT,28,32
 OldRod
     50,MAGIKARP,7,10
     30,KRABBY,7,10
@@ -187,11 +204,11 @@ Water,5
 #-------------------------------
 [097] # Volcán Teide
 Land,20
-    20,LITLEO,28,31
 	20,MAGBY,28,31
     5,MAGMAR,28,31
+	10,CHARCADET,28,31
     20,PONYTA,28,31
-    20,SLUGMA,28,31
+    20,NUMEL,28,31
     10,TORKOAL,28,31
 OldRod
     50,MAGIKARP,20,28
@@ -200,7 +217,9 @@ OldRod
 Land,20
     20,ROCKRUFF,30,34
     20,SPOINK,30,32
-	20,ZIGZAGOON,30,32
+	20,HERDIER,30,32
+	20,SKITTY,30,32
+	10,SPRIGATITO,25,26
 Water,5
     70,TENTACOOL,30,34
     30,WAILMER,30,34
@@ -209,11 +228,12 @@ OldRod
 #-------------------------------
 [139] # Ruta 12
 Land,20
-    20,LINOONE,32,36
+    20,SPINDA,32,36
     20,WOOPER,32,36
     10,ABSOL,32,36
-    10,KECLEON,32,36
+    10,SLAKOTH,32,36
     10,QUAGSIRE,32,36
+	10,ROWLET,20,25
 Water,5
     40,MARILL,32,36
     40,POLIWAG,32,36
@@ -225,17 +245,18 @@ OldRod
 #-------------------------------
 [141] # Interior Casona
 Cave,5
-    40,GASTLY,32,36
-	10,HAUNTER,32,36
-	40,LITWICK,32,36
-	10,LAMPENT,32,36
+    30,GASTLY,32,36
+	20,HAUNTER,32,36
+	30,LITWICK,32,36
+	20,POLTCHAGEIST,32,36
 #-------------------------------
 [134] # Ruta 13
 Land,20
     20,SEEDOT,34,38
-    20,STANTLER,34,38
+    20,RUFFLET,34,38
     10,NUZLEAF,34,38
     10,PIKACHU,34,38
+	10,MIENFOO,34,38
 Water,5
     40,MARILL,34,38
     40,POLIWAG,34,38
@@ -250,7 +271,7 @@ Land,20
     20,BARBOACH,30,40
 	20,SHELLDER,30,40
 	20,CHINCHOU,30,40
-    20,CLAMPERL,30,40
+    20,WISHIWASHI,30,40
 #-------------------------------
 [049] # Pirineos Exteriores
 Land,20
@@ -261,6 +282,7 @@ Land,20
 [119] # Pirineos Interiores
 Cave,0
     40,ARON,36,42
+	40,ZUBAT,36,42
     40,SWINUB,36,42
     10,LAIRON,36,42
     10,PILOSWINE,36,42
@@ -322,12 +344,14 @@ Land,20
 #-------------------------------
 [157] # Cueva Astral 1
 Cave,0
+	20,SABLEYE,50,54
     20,AGGRON,50,54
     20,STEELIX,50,54
     20,MAGNEZONE,50,54
 #-------------------------------
 [158] # Cueva Astral 2
 Cave,0
+	20,SABLEYE,50,54
     20,AGGRON,50,54
     20,STEELIX,50,54
     20,MAGNEZONE,50,54
@@ -432,3 +456,10 @@ Land,20
 	10,PKTS_PHANPY,10,20
 Water, 10
 	10,PKTS_SHARPEDO,10,20
+#-------------------------------
+[200] # Isla Pistolas
+Land,20
+    20,WYNAUT,50,55
+	20,AUDINO,50,55
+	20,KADABRA,50,55
+	20,CLAYDOL,50,55

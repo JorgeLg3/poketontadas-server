@@ -3,7 +3,7 @@
 [PKTS_STARTER_PLANTA1]
 Name = Vernileaf
 Types = GRASS
-BaseStats = 45,65,55,45,45,55
+BaseStats = 45,65,55,55,45,45
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 30
@@ -29,7 +29,7 @@ Evolutions = PKTS_STARTER_PLANTA2,Level,16
 [PKTS_STARTER_PLANTA2]
 Name = Vernilush
 Types = GRASS,FIGHTING
-BaseStats = 65,85,70,55,60,85
+BaseStats = 65,85,70,85,55,60
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 120
@@ -55,7 +55,7 @@ Evolutions = PKTS_STARTER_PLANTA3,Level,36
 [PKTS_STARTER_PLANTA3]
 Name = Vernitor
 Types = GRASS,FIGHTING
-BaseStats = 80,120,85,65,70,110
+BaseStats = 80,120,85,110,65,70
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 240
@@ -80,7 +80,7 @@ Generation = 1
 [PKTS_STARTER_FUEGO1]
 Name = Calflame
 Types = FIRE
-BaseStats = 55,60,55,45,50,45
+BaseStats = 55,60,55,45,45,50
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 30
@@ -106,7 +106,7 @@ Evolutions = PKTS_STARTER_FUEGO2,Level,16
 [PKTS_STARTER_FUEGO2]
 Name = Blazebull
 Types = FIRE,DARK
-BaseStats = 70,85,75,55,60,75
+BaseStats = 70,85,75,75,55,60
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 120
@@ -132,7 +132,7 @@ Evolutions = PKTS_STARTER_FUEGO3,Level,36
 [PKTS_STARTER_FUEGO3]
 Name = Minotorch
 Types = FIRE,DARK
-BaseStats = 100,120,90,65,70,85
+BaseStats = 100,120,90,85,65,70
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 240
@@ -157,7 +157,7 @@ Generation = 1
 [PKTS_STARTER_AGUA1]
 Name = Seahop
 Types = WATER
-BaseStats = 40,45,45,65,55,60
+BaseStats = 40,45,45,60,65,55
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 30
@@ -183,7 +183,7 @@ Evolutions = PKTS_STARTER_AGUA2,Level,16
 [PKTS_STARTER_AGUA2]
 Name = Equarius
 Types = WATER,GHOST
-BaseStats = 60,60,55,90,65,90
+BaseStats = 60,60,55,90,90,65
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 120
@@ -209,7 +209,7 @@ Evolutions = PKTS_STARTER_AGUA3,Level,36
 [PKTS_STARTER_AGUA3]
 Name = Hidramare
 Types = WATER,GHOST
-BaseStats = 75,65,65,125,80,120
+BaseStats = 75,65,65,120,125,80
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 240
@@ -14177,7 +14177,7 @@ CatchRate = 255
 Happiness = 50
 Abilities = SWIFTSWIM,HYDRATION
 HiddenAbilities = WATERABSORB
-Moves=1,ECHOEDVOICE,1,GROWL,4,ACID,8,SUPERSONIC,12,MUDSHOT,16,ROUND,20,BUBBLEBEAM,24,FLAIL,28,UPROAR,32,AQUARING,36,HYPERVOICE,40,MUDDYWATER,44,RAINDANCE,48,HYDROPUMP
+Moves=1,ECHOEDVOICE,1,GROWL,4,ACID,8,SUPERSONIC,10,BUBBLE,12,MUDSHOT,16,ROUND,20,BUBBLEBEAM,24,FLAIL,28,UPROAR,32,AQUARING,36,HYPERVOICE,40,MUDDYWATER,44,RAINDANCE,48,HYDROPUMP
 TutorMoves = AFTERYOU,ATTRACT,BOUNCE,CAPTIVATE,CONFIDE,DOUBLETEAM,EARTHPOWER,ECHOEDVOICE,ENDEAVOR,ENDURE,FACADE,FRUSTRATION,HAIL,HIDDENPOWER,HYDROPUMP,HYPERVOICE,ICYWIND,INFESTATION,MIMIC,MUDDYWATER,MUDSHOT,NATURALGIFT,PROTECT,RAINDANCE,REST,RETURN,ROUND,SCALD,SCREECH,SECRETPOWER,SLEEPTALK,SLUDGEBOMB,SLUDGEWAVE,SNORE,SUBSTITUTE,SURF,SWAGGER,TOXIC,UPROAR,VENOMDRENCH,WATERPULSE,WEATHERBALL
 EggMoves = MIST,MUDSLAP,TOXIC,WATERPULSE
 EggGroups = Water1

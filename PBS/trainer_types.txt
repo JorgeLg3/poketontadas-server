@@ -299,6 +299,7 @@ BaseMoney = 80
 Name = Bailarina del
 Gender = Female
 BaseMoney = 50
+IntroBGM = pkts_Meet_Kimono
 #-------------------------------
 [CHICA_MAURI_ELECTRICO]
 Name = Bailarina del

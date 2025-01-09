@@ -136,7 +136,7 @@ class Server:
             writer = RecordWriter()
             writer.str("found")
             writer.int(number)
-            writer.str(st_.state.name)
+            writer.str(st_.state.online_name)
             writer.str(st_.state.trainertype)
             writer.int(st_.state.win_text)
             writer.int(st_.state.lose_text)
@@ -182,17 +182,17 @@ class Server:
                 self.disconnect(s, "invalid version")
             else:
                 peer_id = record.int()
-                name = record.str()
+                online_name = record.str()
                 id = record.int()
                 ttype = record.str()
                 win_text = record.int()
                 lose_text = record.int()
                 party = record.raw_all()
-                logging.debug('%s: Trainer %s, id %d (%s) -> Searching %d', st, name, public_id(id), hex(id), peer_id)
+                logging.debug('%s: Trainer %s, id %d (%s) -> Searching %d', st, online_name, public_id(id), hex(id), peer_id)
                 if not self.valid_party(record):
                     self.disconnect(s, "invalid party")
                 else:
-                    st.state = Finding(peer_id, name, id, ttype, party, win_text, lose_text)
+                    st.state = Finding(peer_id, online_name, id, ttype, party, win_text, lose_text)
                     # Is the peer already waiting?
                     for s_, st_ in self.clients.items():
                         if (st is not st_ and
@@ -230,7 +230,7 @@ class State:
         return f"{self.address[0]}:{self.address[1]}/{type(self.state).__name__.lower()}"
 
 Connecting = collections.namedtuple('Connecting', '')
-Finding = collections.namedtuple('Finding', 'peer_id name id trainertype party win_text lose_text')
+Finding = collections.namedtuple('Finding', 'peer_id online_name id trainertype party win_text lose_text')
 Connected = collections.namedtuple('Connected', 'peer')
 
 class RecordParser:

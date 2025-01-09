@@ -12,13 +12,20 @@ Pokemon = BAGON
 Pokemon = RIOLU
 Pokemon = CHARCADET
 Pokemon = EEVEE
-Pokémon = ELEKID
+Pokemon = ELEKID
+Pokemon = NOIBAT
+Pokemon = GLIGAR
+Pokemon = TYROGUE
+Pokemon = LAPRAS
+Pokemon = TOGEPI
 #-------------------------------
 [Enfrentamientos salvajes]
 Pokemon = SUNFLORA
 Pokemon = CLOYSTER
 Pokemon = LANTURN
 Pokemon = MANTINE
+Pokemon = FOONGUS
+Pokemon = SNORLAX
 #-------------------------------
 [Enfrentamientos Pistolas]
 Pokemon = OCTILLERY
@@ -30,7 +37,7 @@ Pokemon = ARTICUNO
 Pokemon = ZAPDOS
 Pokemon = MOLTRES
 Pokemon = MEW
-Pokemon = HO-OH
+Pokemon = HOOH
 Pokemon = LUGIA
 Pokemon = GROUDON
 Pokemon = KYOGRE
@@ -48,3 +55,20 @@ Pokemon = CRANIDOS
 Pokemon = SHIELDON
 Pokemon = TIRTOUGA
 Pokemon = ARCHEN
+#-------------------------------
+[Iniciales]
+Pokemon = PKTS_STARTER_PLANTA1
+Pokemon = PKTS_STARTER_AGUA1
+Pokemon = PKTS_STARTER_FUEGO1
+Pokemon = BULBASAUR
+Pokemon = CHARMANDER
+Pokemon = SQUIRTLE
+Pokemon = CHIKORITA
+Pokemon = CYNDAQUIL
+Pokemon = TOTODILE
+Pokemon = TREECKO
+Pokemon = TORCHIC
+Pokemon = MUDKIP
+Pokemon = TURTWIG
+Pokemon = CHIMCHAR
+Pokemon = PIPLUP
