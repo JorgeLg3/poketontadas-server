@@ -1,0 +1,14 @@
+Competitivo
+Batalla individual con reglas de competitivo.
+15
+1,6
+FixedLevelAdjustment;int;100
+2
+EndlessClause
+SleepClause
+1
+NonEggRestriction
+0
+2
+SpeciesClause
+ItemClause
