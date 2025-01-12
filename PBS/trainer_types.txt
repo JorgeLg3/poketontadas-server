@@ -350,7 +350,8 @@ BattleBGM = pkts_Battle_Colega
 VictoryBGM = pkts_Battle_Colega_Victory
 #-------------------------------
 [NADADOR]
-Name = Male
+Name = Nadador
+Gender = Male
 BaseMoney = 50
 #-------------------------------
 [NADADORA]
@@ -465,39 +466,39 @@ Gender = Female
 BaseMoney = 80
 #-------------------------------
 [PRESO]
-Name = Entrenador Pokémon
+Name = Preso
 Gender = Male
 BaseMoney = 20
 IntroBGM = pkts_Preso_Meet
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
 [GUARDIA_CIVIL_PRISION]
-Name = Entrenador Pokémon
+Name = Guardia Civil
 Gender = Male
 BaseMoney = 50
 IntroBGM = pkts_Preso_Meet
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
 [PRESO_PUNKY]
-Name = Entrenador Pokémon
+Name = Preso
 Gender = Male
 BaseMoney = 20
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
 [PRESO_CALVO]
-Name = Entrenador Pokémon
+Name = Preso
 Gender = Male
 BaseMoney = 20
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
 [PRESO_BARBA]
-Name = Entrenador Pokémon
+Name = Preso
 Gender = Male
 BaseMoney = 20
 BattleBGM = pkts_Preso_Battle
 #-------------------------------
 [ALCAIDE]
-Name = Entrenador Pokémon
+Name = Alcaide
 Gender = Male
 BaseMoney = 60
 BattleBGM = pkts_Preso_Battle
@@ -602,7 +603,7 @@ BaseMoney = 60
 [PKTS_ANA_MARIA]
 Name = Exiliada
 Gender = Female
-BaseMoney = 140
+BaseMoney = 200
 SkillLevel = 100
 BattleBGM = pkts_Battle_Colega
 VictoryBGM = pkts_Battle_Colega_Victory
@@ -614,6 +615,7 @@ BaseMoney = 100
 SkillLevel = 100
 BattleBGM = pkts_Battle_Jorge
 VictoryBGM = pkts_Battle_Colega_Victory
+Flags = ReserveLastPokemon
 #-------------------------------
 [PKTS_JP_FINAL]
 Name = Profesor
@@ -622,6 +624,7 @@ BaseMoney = 100
 SkillLevel = 100
 BattleBGM = pkts_Battle_Jp
 VictoryBGM = pkts_Battle_Colega_Victory
+Flags = ReserveLastPokemon
 #-------------------------------
 [ELITE_TRAINER]
 Name = Entrenador de Elite

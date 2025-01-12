@@ -495,54 +495,54 @@ Pokemon = SPINDA,32
 #-------------------------------
 [FLUIDOR_F,Equipo Fluidor]
 LoseText = No me esperaba esto para nada...
-Pokemon = SLOWBRO,30
+Pokemon = SLOWBRO,31
 #-------------------------------
 [FLUIDOR_M,Equipo Fluidor,2]
 LoseText = Mis Pokémon siempre fluyen más de la cuenta...
-Pokemon = SABLEYE,30
+Pokemon = SABLEYE,31
 Pokemon = VIGOROTH,32
 #-------------------------------
 [NADADOR,Mariano]
-LoseText = ¡El desierto no ha podido contigo!
+LoseText = Seguiré buscando por si acaso... Aunque si es cierto la cerveza estará más aguada que la Steinbürg.
 Pokemon = PELIPPER,33
 #-------------------------------
 [NADADORA,Lola]
-LoseText = ¡El desierto no ha podido contigo!
-Pokemon = TENTACRUEL,32
+LoseText = ¡Esa tabla tiene un impacto mediambiental muy alto en estas aguas!
+Pokemon = TENTACRUEL,33
 #-------------------------------
 [CHICO_FLOTADOR,Richi]
-LoseText = ¡El desierto no ha podido contigo!
-Pokemon = GYARADOS,31
+LoseText = ¡Generé un bug tan raro que los programadores estuvieron horas buscándolo! ¡Ja, ja, ja!
+Pokemon = GYARADOS,32
 #-------------------------------
 [GUIRI_F,Rachel]
-LoseText = !Deberías llamar a la puerta the next time!
-Pokemon = SEAKING,33
+LoseText = ¡Deberías llamar a la puerta the next time!
+Pokemon = SEAKING,34
 #-------------------------------
 [CAYETANO,Borja]
 LoseText = ¿Sabrías indicarme donde está el Massimo Dutti más  cercano?
-Pokemon = SHIFTRY,34
+Pokemon = SHIFTRY,35
 #-------------------------------
 [GUIRI_COUPLE,Harry & Grace]
 LoseText = ¡Has dejado a nuestros Pokémon más despellejados que nuestra skin!
-Pokemon = DELCATTY,32
-Pokemon = MANECTRIC,32
+Pokemon = DELCATTY,33
+Pokemon = MANECTRIC,33
 #-------------------------------
 [GUIRI,Bob]
 LoseText = ¿Por aquí no pasa la guagua? ¡Holy shit!
-Pokemon = FARFETCHD,32
+Pokemon = FARFETCHD,34
 	Form = 1
-Pokemon = SIRFETCHD,34
+Pokemon = SIRFETCHD,35
 #-------------------------------
 [MOCHILERO,Carlos]
 LoseText = ¡Vas a poder subir a la cima sin problemas!
-Pokemon = MACHOKE,32
+Pokemon = MACHOKE,34
 Pokemon = GRAVELER,34
 #-------------------------------
 [RANGER_F,Eva]
 LoseText = ¡Las especies tropicales son una pasada!
-Pokemon = PIKIPEK,32
-Pokemon = TRUMBEAK,32
-Pokemon = PANCHAM,32
+Pokemon = PIKIPEK,34
+Pokemon = TRUMBEAK,34
+Pokemon = PANCHAM,34
 #-------------------------------
 [RANGER_M,Alex]
 LoseText = Parece que controlas bastante.
@@ -554,13 +554,13 @@ Pokemon = RAPIDASH,35
 #-------------------------------
 [PKTS_MARTA,Marta]
 LoseText = ¡Vaya combate más brutalítico!
-Pokemon = TOUCANNON,34
-Pokemon = CAMERUPT,35
-Pokemon = PKTS_TROMPHAN,37
+Pokemon = TOUCANNON,35
+Pokemon = CAMERUPT,36
+Pokemon = PKTS_TROMPHAN,38
 #-------------------------------
 [MONTANERO,Ricardo]
 LoseText = Te dejaría el mío pero es talla XXXL.
-Pokemon = ARCANINE,35
+Pokemon = ARCANINE,36
 #-------------------------------
 [KARATE_COUPLE,¡Hiyaaah!]
 LoseText = ¿Cómo?¡Has terminado la racha de victorias de los hermanos Hiyaah!
@@ -570,57 +570,57 @@ Pokemon = HITMONTOP,35
 #-------------------------------
 [NADADOR,Jaime]
 LoseText = Por culpa de esta ruta se nos llenan las Islas Canarias de guiris.
-Pokemon = WAILMER,34
+Pokemon = WAILMER,35
 Pokemon = WAILORD,36
 #-------------------------------
 [NADADORA,Julia]
 LoseText = ¡Creo que veo tierra!
-Pokemon = TENTACRUEL,34
+Pokemon = TENTACRUEL,36
 Pokemon = STARMIE,36
 #-------------------------------
 [PKTS_HELGA_1,Helga]
 LoseText = ¡Vaya, parece que quieres más caña!
-Pokemon = SPOINK,38
+Pokemon = SPOINK,39
 #-------------------------------
 [PKTS_HELGA_2,Helga]
 LoseText = ¿Cómo? ¡Si mi Pokémon era estupendo!
-Pokemon = OBSTAGOON,38
+Pokemon = OBSTAGOON,39
 #-------------------------------
 [PKTS_HELGA_3,Helga]
 LoseText = ¡Lleva cuidado, que está impreso en 3D!
-Pokemon = TAUROS,38
+Pokemon = TAUROS,39
 #-------------------------------
 [PKTS_HELGA_4,Helga]
 LoseText = Has superado todas las salas, ¡unbelievable!
-Pokemon = LUNATONE,38
-Pokemon = COPPERAJAH,38
-Pokemon = GRUMPIG,39
-Pokemon = PKTS_GARY,40
+Pokemon = LUNATONE,39
+Pokemon = COPPERAJAH,39
+Pokemon = GRUMPIG,40
+Pokemon = PKTS_GARY,42
 #-------------------------------
 [CHICA_PARASOL,Daisy]
 LoseText = ¡Jolín, he perdido! Esto es peor que un día sin paraguas en Dublín...
-Pokemon = BUDEW,34
+Pokemon = BUDEW,35
 Pokemon = ROSELIA,35
-Pokemon = ROSERADE,36
+Pokemon = ROSERADE,37
 #-------------------------------
 [ENTRENADORGUAY,Patrick]
 LoseText = Ahora que me fijo mi trébol es de tres hojas...
-Pokemon = ROCKRUFF,35
-Pokemon = LYCANROC,37
+Pokemon = ROCKRUFF,36
+Pokemon = LYCANROC,38
 	Form = 2
 #-------------------------------
 [CAZABICHOS_M,Pedro]
 LoseText = Debería entrenar a otro tipo de Pokémon que no sea el bicho...
-Pokemon = BUTTERFREE, 35
-Pokemon = PARASECT, 36
+Pokemon = BUTTERFREE, 36
+Pokemon = PARASECT, 37
 #-------------------------------
 [PIROMANO,Miguel]
 LoseText = Este combate me ha sentado como una jarra de agua fría...
-Pokemon = NINETALES, 37
+Pokemon = NINETALES, 39
 #-------------------------------
 [MOCHILERA,Eduarda]
 LoseText = ¡Disfruta de lo que hay más allá de esta cueva!
-Pokemon = RHYHORN, 37
+Pokemon = RHYHORN, 38
 Pokemon = PILOSWINE, 38
 #-------------------------------
 [DAMISELA,Lucía]
@@ -629,21 +629,21 @@ Pokemon = BRELOOM, 40
 #-------------------------------
 [DAMISELA,Andrea]
 LoseText = ¡Has ganado justamente, te daré una pista!
-Pokemon = GLOOM, 36
+Pokemon = GLOOM, 37
 Pokemon = BELLOSSOM, 38
 #-------------------------------
 [DAMISELA,Nuria]
 LoseText = ¡Has ganado justamente, te daré una pista!
-Pokemon = SKIPLOOM, 37
+Pokemon = SKIPLOOM, 38
 Pokemon = JUMPLUFF, 39
 #-------------------------------
 [DAMISELA,Patricia]
 LoseText = ¡Has ganado justamente, te daré una pista!
-Pokemon = TROPIUS, 40
+Pokemon = TROPIUS, 41
 #-------------------------------
 [PKTS_QUIQUE,Quique]
 LoseText = Parece que me he calentado demasiado...
-Pokemon = SUNFLORA, 40
+Pokemon = SUNFLORA, 41
 Pokemon = BELLOSSOM, 41
 Pokemon = ROSERADE, 42
 Pokemon = PKTS_FLORFLOWER, 44
@@ -654,24 +654,24 @@ Pokemon = AGGRON, 42
 #-------------------------------
 [CUNADO,Guillermo]
 LoseText = ¿Cómo he podido perder con este tremendo equipo?
-Pokemon = LINOONE, 38
-Pokemon = METAPOD, 38
-Pokemon = MAGIKARP, 38
+Pokemon = LINOONE, 39
+Pokemon = METAPOD, 39
+Pokemon = MAGIKARP, 39
 #-------------------------------
 [VASCO,Aitor]
 LoseText = ¿Eres de Murcia? Vivir en un desierto no debe de ser fácil...
 Pokemon = KLINK, 38
-Pokemon = KLANG, 39
-Pokemon = KLINKLANG, 40
+Pokemon = KLANG, 40
+Pokemon = KLINKLANG, 41
 #-------------------------------
 [JOVEN,Miguel]
-LoseText = ¡Eso no ha vale!
-Pokemon = DARTRIX, 39
+LoseText = ¡Eso no vale!
+Pokemon = DARTRIX, 40
 Pokemon = ABSOL, 41
 #-------------------------------
 [POLICIA,Óscar]
 LoseText = ¡Vaya, eres bastante fuerte!
-Pokemon = MIGHTYENA, 39
+Pokemon = MIGHTYENA, 40
 Pokemon = ARCANINE, 41
 #-------------------------------
 [MOTERO,Ernesto]
@@ -684,12 +684,12 @@ Pokemon = ANNIHILAPE, 42
 #-------------------------------
 [MOTERO,Carlos]
 LoseText = Sigue tu camino pieza, sino quieres que te pegue un escarmiento.
-Pokemon = PRIMEAPE, 40
+Pokemon = PRIMEAPE, 41
 Pokemon = MACHAMP, 42
 #-------------------------------
 [ENTRENADORGUAY,Faustino]
 LoseText = ¡Te he subestimado!
-Pokemon = PIKACHU, 43
+Pokemon =RAICHU, 43
 #-------------------------------
 [RIVAL_Link,Link, 10]
 Pokemon = PKTS_STARTER_FUEGO3,45
@@ -744,15 +744,15 @@ Pokemon = SNORLAX,40
 #-------------------------------
 [PRESO_PUNKY,Cristóbal]
 LoseText = ¡Eso no me lo decís en la calle!
-Pokemon = SABLEYE,41
+Pokemon = SABLEYE,42
 #-------------------------------
 [PRESO_CALVO,Guillermo]
 LoseText = Tan loco no estaré sino gano a un par de pringaos a un combate Pokémon...
-Pokemon = LINOONE,42
+Pokemon = LINOONE,44
 #-------------------------------
 [PRESO_PUNKY,Francis]
 LoseText = Al parecer también soy malo entrenando Pokémon...
-Pokemon = RATICATE,44
+Pokemon = RATICATE,45
 #-------------------------------
 [PRESO_BARBA,Néstor]
 LoseText = Parece que vamos a estar aquí un tiempo más...
@@ -760,31 +760,31 @@ Pokemon = GOLBAT,45
 #-------------------------------
 [GUARDIA_CIVIL_PRISION,Juan]
 LoseText = Puede que nos hayáis vencido, ¡pero nunca derrotaréis al alcaide!
-Pokemon = GROWLITHE,43
+Pokemon = GROWLITHE,44
 #-------------------------------
 [GUARDIA_CIVIL_PRISION,Pedro]
 LoseText = ¡No os saldréis con la vuestra!
-Pokemon = VULPIX,42
+Pokemon = VULPIX,44
 #-------------------------------
 [GUARDIA_CIVIL_PRISION,Víctor]
 LoseText = ¡El informático nunca cantará, es el mejor pagado en la prisión!
-Pokemon = MIGHTYENA,44
+Pokemon = MIGHTYENA,45
 #-------------------------------
 [GUARDIA_CIVIL_PRISION,Alfredo]
 LoseText = Nos habéis dado una buena paliza, sois demasiado fuertes...
-Pokemon = ABSOL,45
+Pokemon = ABSOL,46
 #-------------------------------
 [ALCAIDE,Héctor]
 LoseText = Parece que os tendré que dar el dichoso código...
-Pokemon = ARCANINE,44
+Pokemon = ARCANINE,45
 Pokemon = RAPIDASH,46
 #-------------------------------
 [TEAMROCKET_COUPLE,Jessie y James]
-LoseText = Parece que os tendré que dar el dichoso código...
-Pokemon = ARBOK,43
-Pokemon = WEEZING,43
-Pokemon = VICTREEBEL,42
-Pokemon = WOBBUFFET,42
+LoseText = ¿¿El Team Rocket derrotado??
+Pokemon = ARBOK,44
+Pokemon = WEEZING,44
+Pokemon = VICTREEBEL,43
+Pokemon = WOBBUFFET,43
 #-------------------------------
 [PKTS_ALFI_PARTNER,Alfi]
 LoseText = ¡Vaya lección de combates bro!
@@ -795,32 +795,32 @@ Pokemon = WAILORD, 100
 #-------------------------------
 [PKTS_ALFI,Alfi]
 LoseText = ¡Vaya lección de combates bro!
-Pokemon = SEISMITOAD,44
-Pokemon = CRAWDAUNT, 46
-Pokemon = WISHIWASHI,46
-Pokemon = PKTS_SHARPEDO,48
+Pokemon = SEISMITOAD,45
+Pokemon = CRAWDAUNT, 47
+Pokemon = WISHIWASHI,47
+Pokemon = PKTS_SHARPEDO,49
 #-------------------------------
 [FLUIDOR_M,Equipo Fluidor,3]
 LoseText = ¡He vuelto a perder por fluir más de la cuenta!
-Pokemon = SPINDA,42
-Pokemon = VIGOROTH,43
+Pokemon = SPINDA,43
+Pokemon = VIGOROTH,44
 #-------------------------------
 [FLUIDOR_F,Equipo Fluidor,1]
 LoseText = Después de esto seguro que el jefe me echa...
-Pokemon = SABLEYE,42
-Pokemon = SLOWKING,43
+Pokemon = SABLEYE,43
+Pokemon = SLOWKING,44
 #-------------------------------
 [KAIROS,Kairos]
 LoseText = ...
-Pokemon = SABLEYE,42
-Pokemon = VIGOROTH, 44
-Pokemon = SLAKING,46
-Pokemon = PKTS_DONPHAN,48
+Pokemon = SABLEYE,44
+Pokemon = VIGOROTH, 45
+Pokemon = SLAKING,47
+Pokemon = PKTS_DONPHAN,49
 #-------------------------------
 [MOCHILERO,Ramiro]
 LoseText = ¡Si llegas a la cima piensa en un buen deseo!
-Pokemon = GOLETT, 44	
-Pokemon = GOLURK, 46	
+Pokemon = GOLETT, 45	
+Pokemon = GOLURK, 47	
 #-------------------------------
 [MOCHILERA,Eva]
 LoseText = Bueno seguiré dando vueltas hasta encontrarme conmigo misma.
@@ -828,44 +828,44 @@ Pokemon = BRELOOM, 48
 #-------------------------------
 [MONTANERO,Enrique]
 LoseText = La cima no es el final, sino el coimienzo de algo más grande.	
-Pokemon = PUPITAR, 45	
-Pokemon = GRAVELER, 45	
+Pokemon = PUPITAR, 46	
+Pokemon = GRAVELER, 46	
 #-------------------------------
 [MEDIUM_M,Orion]
 LoseText = La derrota no es el fin, sino un peldaño hacia la iluminación.
-Pokemon = HAUNTER, 46	
-Pokemon = KADABRA, 46	
+Pokemon = HAUNTER, 47	
+Pokemon = KADABRA, 47	
 #-------------------------------
 [MEDIUM_F,Aurora]
 LoseText = Esto es solo una prueba más. El Gran Manu me guiará para superar mi propia debilidad.
-Pokemon = DUOSION, 45	
+Pokemon = DUOSION, 46	
 Pokemon = REUNICLUS, 48	
 #-------------------------------
 [PKTS_MANU,Manu]
 LoseText = ¡Vaya demostración de fuerza interior!
-Pokemon = MAROWAK, 46
+Pokemon = MAROWAK, 48
 	Form = 1
 Pokemon = KADABRA, 48
-Pokemon = OBSTAGOON, 49
-Pokemon = PKTS_DELPHOX, 51	
+Pokemon = OBSTAGOON, 50
+Pokemon = PKTS_DELPHOX, 52	
 #-------------------------------
 [CHICO_SAUNA,Fredrik]
-LoseText = ¡Tu ganas, te cuento el secreto!
-Pokemon = WHISCASH, 47	
-Pokemon = TORKOAL, 47
+LoseText = ¡Tú ganas, te cuento el secreto!
+Pokemon = WHISCASH, 48	
+Pokemon = TORKOAL, 48
 #-------------------------------
 [CHICA_SAUNA,Ingrid]
 LoseText = Lo de ir a la sauna es un poco masoca, ¿no?
-Pokemon = MAGMORTAR, 48	
-Pokemon = MAMOSWINE, 48
+Pokemon = MAGMORTAR, 49
+Pokemon = MAMOSWINE, 49
 #-------------------------------
 [CHICA_SAUNA,Greta]
 LoseText = ¿Crees que si me baño con un huevo se cocerá?º
-Pokemon = TORKOAL, 50	
+Pokemon = TORKOAL, 51	
 #-------------------------------
 [CHICO_SAUNA,Markus]
 LoseText = ¡He perdido por culpa del vapor! No me permite pensar con claridad...
-Pokemon = CAMERUPT, 50	
+Pokemon = CAMERUPT, 51	
 #-------------------------------
 [CONSERJE,Kristoffer]
 LoseText = ¡Vaya clase magistral de combates Pokémon!
@@ -875,38 +875,38 @@ Pokemon = SNORLAX, 48
 #-------------------------------
 [PKTS_ROW,Row]
 LoseText = ¡Me he quedado helada con tus habilidades!
-Pokemon = PKTS_HOLAYOLE1, 50
-Pokemon = PKTS_HOLAYOLE2, 50
-Pokemon = NINETALES, 55
+Pokemon = PKTS_HOLAYOLE1, 51
+Pokemon = PKTS_HOLAYOLE2, 51
+Pokemon = NINETALES, 56
 	Form = 1
-Pokemon = GLACEON, 53
+Pokemon = GLACEON, 54
 #-------------------------------
 [ESQUIADORA,Laura]
 LoseText = Vaya parece que mi dignidad ha quedado enterrada en el fondo de la nieve...
-Pokemon = LAIRON, 48	
-Pokemon = SNOVER, 48
-Pokemon = VANILLITE,50
+Pokemon = LAIRON, 49	
+Pokemon = SNOVER, 49
+Pokemon = VANILLITE,51
 #-------------------------------
 [ESQUIADOR,Felipe]
 LoseText = Ni comprando los mejores Pokémon Noruegos consigo ganar un mísero combate...
-Pokemon = PILOSWINE, 49	
-Pokemon = MAMOSWINE, 50	
+Pokemon = PILOSWINE, 50	
+Pokemon = MAMOSWINE, 51	
 #-------------------------------
 [SNOWBOARDER,Tomás]
 LoseText = Vaya, parece que me has dado de mi propia medicina...
-Pokemon = SNOVER, 50
-Pokemon = ABOMASNOW, 52
+Pokemon = SNOVER, 51
+Pokemon = ABOMASNOW, 53
 #-------------------------------
 [SNOW_WORKER,Antonio]
 LoseText = Parece que tendré que ir a la autoescuela de quitanieves a que me den un par de lecciones...
-Pokemon = AGGRON, 54	
+Pokemon = AGGRON, 55	
 #-------------------------------
 [PKTS_ANA_MARIA,Ana María]
 LoseText = ¡Mi suerte no me ha salvado esta vez!
 Pokemon = MUDKIP,1
 	Moves = QUICKATTACK,ENDEAVOR
 	Item = FOCUSSASH
-Pokemon = TOGEKISS,56
+Pokemon = TOGEKISS,57
 	Ability = SUPERLUCK
 	Moves = AIRSLASH,DAZZLINGGLEAM,ROOST
 	Item = SCOPELENS
@@ -914,41 +914,45 @@ Pokemon = SWAMPERT,58
 #-------------------------------
 [VIKINGO,Rolo]
 LoseText = ¡Eres todo un guerrero!
-Pokemon = ZORUA,50
-Pokemon = ZOROARK,54
+Pokemon = ZORUA,52
+Pokemon = ZOROARK,55
 #-------------------------------
 [CABALLERO,Lancelot]
 LoseText = A quién quiero engañar, no sé ni como coger la espada...
-Pokemon = BISHARP,55
+Pokemon = BISHARP,56
 #-------------------------------
 [CABALLERO,Alonso Quijano]
 LoseText = No huye el que se retira.
-Pokemon = KINGAMBIT,56
+Pokemon = KINGAMBIT,58
 #-------------------------------
 [VIKINGO,Eivor]
 LoseText = ¡Guau! Eres un buen estratega.
-Pokemon = PERRSERKER,55
+Pokemon = PERRSERKER,56
 #-------------------------------
 [CABALLERA,Laura]
 LoseText = ¡Pues no eres ningún debilucho!
-Pokemon = SIRFETCHD,56
+Pokemon = SIRFETCHD,57
 #-------------------------------
 [PKTS_JORGE,Jorge,1]
 LoseText = ¡Vaya, hacía años que no disfrutaba tanto de un combate!
-Pokemon = TOXTRICITY,58
+Pokemon = TOXTRICITY,59
 	Moves = CHARM,EERIEIMPULSE,SNARL,ELECTROWEB
 	Item = SHUCABERRY
 	EV = 252,0,126,0,126,0
-Pokemon = UMBREON,58
+Pokemon = UMBREON,59
 	Moves = TOXIC,WILLOWISP,WISH,PROTECT
 	Item = LEFTOVERS
-Pokemon = TYRANITAR,59
+Pokemon = TYRANITAR,60
 	Moves = STONEEDGE,CRUNCH,EARTHQUAKE,ICEPUNCH
 	Item = ASSAULTVEST
 Pokemon = DOUBLADE,61
 	Moves = NIGHTSHADE,PAINSPLIT
 	Item = EVIOLITE
 	EV = 0,0,252,0,252,0
+Pokemon = ROTOM,60
+	Form = 1
+    Moves = THUNDERBOLT,OVERHEAT,SHADOWBALL,COSMICPOWER
+	Item = LEFTOVERS
 #-------------------------------
 [PKTS_JORGE,Jorge,2]
 LoseText = ¡Ya era hora, al menos has podido con el segundo equipo!
@@ -956,6 +960,7 @@ Pokemon = TOXTRICITY,58
 Pokemon = UMBREON,58
 Pokemon = TYRANITAR,59
 Pokemon = DOUBLADE,61
+Pokemon = ROTOM_1,60
 #-------------------------------
 [RIVAL_Link,Link, 13]
 LoseText = ¡Me has ganado por poco!
@@ -1042,11 +1047,29 @@ Pokemon = VIGOROTH,56
 Pokemon = PANGORO,58
 Pokemon = KLINKLANG,58
 #-------------------------------
-[PKTS_JP_FINAL,Jp]
+[PKTS_JP_FINAL,Jp,1]
 LoseText = ...
-Pokemon = VIGOROTH,60
 Pokemon = SLAKING,60
 Pokemon = SLOWKING,62
+Pokemon = PKTS_STARTER_AGUA3,64
+Pokemon = FLOATZEL,62
+Pokemon = SABLEYE,62
+Pokemon = PKTS_TERRAPHAN,65
+#-------------------------------
+[PKTS_JP_FINAL,Jp,2]
+LoseText = ...
+Pokemon = SLAKING,60
+Pokemon = SLOWKING,62
+Pokemon = PKTS_STARTER_PLANTA3,64
+Pokemon = FLOATZEL,62
+Pokemon = SABLEYE,62
+Pokemon = PKTS_TERRAPHAN,65
+#-------------------------------
+[PKTS_JP_FINAL,Jp,3]
+LoseText = ...
+Pokemon = SLAKING,60
+Pokemon = SLOWKING,62
+Pokemon = PKTS_STARTER_FUEGO3,64
 Pokemon = FLOATZEL,62
 Pokemon = SABLEYE,62
 Pokemon = PKTS_TERRAPHAN,65
@@ -1297,7 +1320,7 @@ Pokemon = TOXTRICITY,75
 Pokemon = UMBREON,75
 Pokemon = TYRANITAR,75
 Pokemon = AEGISLASH,75
-Pokemon = DRAGONITE,75
+Pokemon = ROTOM_1,75
 #-------------------------------
 [PKTS_EULOGIO,Eulogio,50]
 LoseText = Me has quitado todas las ganas de sushi... ¿Te hace un telepi?

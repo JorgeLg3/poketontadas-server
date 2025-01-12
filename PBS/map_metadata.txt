@@ -124,6 +124,7 @@ Name = Valencia
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,21,11
 BattleBack = camino
 #-------------------------------
 [045]   # Ruta 07
@@ -295,6 +296,7 @@ ShowArea = true
 Bicycle = true
 DiveMap = 122
 BattleBack = beach
+MapPosition = 0,27,7
 #-------------------------------
 [104]   # Hotel P1 Habitaciones
 Name = Hotel P1 Habitaciones
@@ -508,7 +510,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,4,7
-BattleBack = city
+BattleBack = islapistolas
 MapSize = 1,11
 #-------------------------------
 [167]   # Oslo
@@ -516,6 +518,7 @@ Name = Oslo
 Outdoor = true
 ShowArea = true
 BattleBack = snow
+MapPosition = 0,19,3
 #-------------------------------
 [171]   # Interior Portal Gredos
 Name = Interior Portal Gredos

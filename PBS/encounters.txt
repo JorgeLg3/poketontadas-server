@@ -90,6 +90,7 @@ Land,20
     20,TOXEL,17,20
     20,WINGULL,17,20
     20,TRUBBISH,16,20
+	20,DITTO,16,20
 OldRod
     50,MAGIKARP,10,15
 #-------------------------------
@@ -191,16 +192,16 @@ Land,20
     20,MEOWTH,28,32
 	20,CUFANT,28,32
 OldRod
-    50,MAGIKARP,7,10
-    30,KRABBY,7,10
-    20,CORPHISH,9,15
-    5,GYARADOS,9,15
+    50,MAGIKARP,26,32
+    30,KRABBY,26,32
+    20,CORPHISH,26,32
+    5,GYARADOS,26,32
 Water,5
-    30,TENTACOOL,7,10
-    30,WAILMER,7,10
-    15,CARVANHA,20,25
-    5,SHARPEDO,20,25
-    5,WAILORD,20,25
+    30,TENTACOOL,26,32
+    30,WAILMER,26,32
+    15,HORSEA,26,32
+    5,SEADRA,26,32
+    5,WAILORD,26,32
 #-------------------------------
 [097] # Volcán Teide
 Land,20
@@ -249,6 +250,7 @@ Cave,5
 	20,HAUNTER,32,36
 	30,LITWICK,32,36
 	20,POLTCHAGEIST,32,36
+	10,ROTOM,32,36
 #-------------------------------
 [134] # Ruta 13
 Land,20
@@ -266,6 +268,17 @@ OldRod
     50,CORPHISH,25,30
     50,MAGIKARP,25,30
 #-------------------------------
+[103] # Isla Valera
+Water,5
+    40,TENTACOOL,35,40
+    10,TENTACRUEL,35,40
+    40,WINGULL,35,40
+    10,PELIPPER,35,40
+OldRod
+    40,CORPHISH,35,40
+    40,MAGIKARP,35,40
+	20,GYARADOS,35,40
+#-------------------------------
 [122] # Bajo el agua
 Land,20
     20,BARBOACH,30,40
@@ -275,9 +288,11 @@ Land,20
 #-------------------------------
 [049] # Pirineos Exteriores
 Land,20
-    40,GOLETT,36,42
-    40,SNOVER,36,42
+    30,GOLETT,36,42
+    30,SNOVER,36,42
+	10,ABOMASNOW,36,42
     10,GOLURK,36,42
+	20,STANTLER,36,42
 #-------------------------------
 [119] # Pirineos Interiores
 Cave,0
@@ -293,6 +308,12 @@ Land,20
     40,SNOVER,36,40
     10,ABOMASNOW,36,40
     10,GOLURK,36,40
+#-------------------------------
+[167] # OSLO
+OldRod
+    40,SHELLDER,30,40
+    25,MAGIKARP,30,40
+	25,KRABBY,30,40
 #-------------------------------
 [150] # Ruta 14
 Land,20

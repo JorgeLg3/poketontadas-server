@@ -7364,15 +7364,15 @@ ShadowSize = 2
 #-------------------------------
 [PKTS_STARTER_FUEGO2]
 BackSprite = 0,0
-FrontSprite = 0,28
+FrontSprite = 0,22
 ShadowX = 0
-ShadowSize = 2
+ShadowSize = 3
 #-------------------------------
 [PKTS_STARTER_FUEGO3]
 BackSprite = 0,0
-FrontSprite = 0,28
+FrontSprite = -1,11
 ShadowX = 0
-ShadowSize = 2
+ShadowSize = 3
 #-------------------------------
 [PKTS_STARTER_AGUA1]
 BackSprite = 0,0
@@ -7382,15 +7382,15 @@ ShadowSize = 2
 #-------------------------------
 [PKTS_STARTER_AGUA2]
 BackSprite = 0,0
-FrontSprite = 0,26
+FrontSprite = 0,13
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [PKTS_STARTER_AGUA3]
 BackSprite = 0,0
-FrontSprite = 0,26
+FrontSprite = 0,3
 ShadowX = 0
-ShadowSize = 2
+ShadowSize = 3
 #-------------------------------
 [PKTS_STARTER_PLANTA1]
 BackSprite = 0,0
