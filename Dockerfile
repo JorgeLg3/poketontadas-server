@@ -4,6 +4,7 @@ FROM python:3.8-slim
 
 COPY /PBS /PBS
 COPY ./cable_club_v20_21.py .
+COPY ./OnlinePresets ./OnlinePresets
 
 WORKDIR /PBS
 RUN python3 cable_club_pokemon_processor.py pokemon.txt --mode propagate -pf pokemon_forms.txt
